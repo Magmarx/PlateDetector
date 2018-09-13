@@ -1,0 +1,12 @@
+/Users/MiguelPorras/Desktop/VideosPlacas/Videos/MCPlate/plate42.mp4
+plate log 
+Frame: 0
+Total Time to process image: 199.044ms.
+
+splited plates 
+
+Plates 
+
+Final time 
+2549 ms
+2.549 s

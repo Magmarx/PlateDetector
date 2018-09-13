@@ -1,0 +1,156 @@
+/Users/MiguelPorras/Desktop/VideosPlacas/Videos/MCPlate/plate8.mp4
+plate log 
+Frame: 0
+Total Time to process image: 7.07633ms.
+Frame: 1
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 87.2645ms.
+Frame: 2
+Total Time to process image: 28.7729ms.
+Frame: 3
+Total Time to process image: 41.975ms.
+Frame: 4
+Total Time to process image: 26.8026ms.
+Frame: 5
+Total Time to process image: 37.338ms.
+Frame: 6
+Total Time to process image: 26.6738ms.
+Frame: 7
+Total Time to process image: 55.543ms.
+Frame: 8
+Total Time to process image: 26.4536ms.
+Frame: 9
+Total Time to process image: 46.2392ms.
+Frame: 10
+Total Time to process image: 51.1015ms.
+Frame: 11
+Total Time to process image: 37.3944ms.
+Frame: 12
+Total Time to process image: 54.9183ms.
+plate0: 10 results -- Processing Time = 23.2716ms.
+    - P051VT	 confidence: 80.9631
+    - P05JVT	 confidence: 80.2165
+    - P051FVT	 confidence: 79.3216
+    - P051T	 confidence: 79.1837
+    - P05VT	 confidence: 78.8597
+    - 051VT	 confidence: 78.6914
+    - P05JFVT	 confidence: 78.575
+    - P05JT	 confidence: 78.4371
+    - 05JVT	 confidence: 77.9448
+    - P051FT	 confidence: 77.5422
+Frame: 13
+Total Time to process image: 29.535ms.
+Frame: 14
+Total Time to process image: 53.3809ms.
+plate0: 10 results -- Processing Time = 22.3149ms.
+    - 051FVT	 confidence: 83.0504
+    - 05JFVT	 confidence: 80.1645
+    - 053FVT	 confidence: 78.6088
+    - 051FT	 confidence: 78.0901
+    - U51FVT	 confidence: 77.857
+    - 05FVT	 confidence: 76.934
+    - 051FV	 confidence: 76.1988
+    - O51FVT	 confidence: 75.4968
+    - Q51FVT	 confidence: 75.4663
+    - 05JFT	 confidence: 75.2042
+Frame: 15
+Total Time to process image: 33.5639ms.
+Frame: 16
+Total Time to process image: 57.1218ms.
+plate0: 10 results -- Processing Time = 22.0139ms.
+    - 153FVT	 confidence: 78.7716
+    - 15FVT	 confidence: 78.4285
+    - 153FV	 confidence: 77.2956
+    - 15FV	 confidence: 76.9525
+    - 151FVT	 confidence: 75.7418
+    - 153VT	 confidence: 74.5969
+    - 151FV	 confidence: 74.2659
+    - 15VT	 confidence: 74.2538
+    - U153FVT	 confidence: 73.1704
+    - 153V	 confidence: 73.121
+Frame: 17
+Total Time to process image: 63.9159ms.
+plate0: 10 results -- Processing Time = 23.384ms.
+    - 053FVT	 confidence: 78.9967
+    - 05FVT	 confidence: 78.6376
+    - 053VT	 confidence: 78.411
+    - 05VT	 confidence: 78.0519
+    - P053FVT	 confidence: 77.8428
+    - P05FVT	 confidence: 77.4837
+    - P053VT	 confidence: 77.2571
+    - P05VT	 confidence: 76.898
+    - 051FVT	 confidence: 76.3453
+    - Q53FVT	 confidence: 76.1098
+Frame: 18
+Total Time to process image: 63.9058ms.
+plate0: 10 results -- Processing Time = 22.6188ms.
+    - 05VT	 confidence: 80.7651
+    - D5VT	 confidence: 78.2389
+    - P05VT	 confidence: 75.5509
+    - O5VT	 confidence: 74.5385
+    - 051VT	 confidence: 74.4868
+    - 053VT	 confidence: 74.1208
+    - Q5VT	 confidence: 73.5352
+    - PD5VT	 confidence: 73.0247
+    - 05JVT	 confidence: 72.7996
+    - D51VT	 confidence: 71.9606
+Frame: 19
+Total Time to process image: 64.9353ms.
+plate0: 10 results -- Processing Time = 23.232ms.
+    - Q5FVT	 confidence: 80.267
+    - PQ5FVT	 confidence: 80.1539
+    - D5FVT	 confidence: 79.7916
+    - 05FVT	 confidence: 79.7493
+    - PD5FVT	 confidence: 79.6786
+    - P05FVT	 confidence: 79.6362
+    - DQ5FVT	 confidence: 77.1955
+    - Q53FVT	 confidence: 77.0874
+    - PQ53FVT	 confidence: 76.9743
+    - DD5FVT	 confidence: 76.7201
+Frame: 20
+Total Time to process image: 50.1345ms.
+Frame: 21
+Total Time to process image: 43.3649ms.
+Frame: 22
+Total Time to process image: 42.766ms.
+Frame: 23
+Total Time to process image: 44.6538ms.
+Frame: 24
+Total Time to process image: 59.7641ms.
+Frame: 25
+Total Time to process image: 63.0127ms.
+plate0: 10 results -- Processing Time = 21.5177ms.
+    - LD5V	 confidence: 76.9951
+    - L51V	 confidence: 73.6159
+    - LD51V	 confidence: 73.0063
+    - D51V	 confidence: 72.7922
+    - LD51	 confidence: 71.1965
+    - L05V	 confidence: 70.2316
+    - 1D5V	 confidence: 68.9819
+    - LO5V	 confidence: 68.3798
+    - LQ5V	 confidence: 68.2919
+    - ID5V	 confidence: 67.744
+Frame: 26
+Total Time to process image: 48.2856ms.
+Frame: 27
+Total Time to process image: 56.6519ms.
+Frame: 28
+Total Time to process image: 72.9827ms.
+plate0: 10 results -- Processing Time = 20.1452ms.
+    - 1FVT	 confidence: 79.8939
+    - 1PVT	 confidence: 73.2556
+    - 1GVT	 confidence: 72.7675
+    - IFVT	 confidence: 69.915
+    - IPVT	 confidence: 63.2766
+    - IGVT	 confidence: 62.7885
+    - 1FUT	 confidence: 49.4795
+    - 1PUT	 confidence: 42.8412
+    - 1GUT	 confidence: 42.353
+    - IFUT	 confidence: 39.5006
+
+splited plates 
+Time,process INFO:0],OpenCL P051VT,80.9631 P05JVT,80.2165 P051FVT,79.3216 051FVT,83.0504 05JFVT,80.1645 053FVT,78.6088 153FVT,78.7716 15FVT,78.4285 153FV,77.2956 053FVT,78.9967 05FVT,78.6376 053VT,78.411 05VT,80.7651 D5VT,78.2389 P05VT,75.5509 Q5FVT,80.267 PQ5FVT,80.1539 D5FVT,79.7916 LD5V,76.9951 L51V,73.6159 LD51V,73.0063 1FVT,79.8939 1PVT,73.2556 1GVT,72.7675 
+Plates 
+('P053FVT', 78.9967, 'partialPlate'), ('P051FVT', 41.5252, 'partialPlate'), ('P051FVT', 39.6608, 'plate'), ('P153FVT', 39.3858, 'partialPlate')
+Final time 
+2008 ms

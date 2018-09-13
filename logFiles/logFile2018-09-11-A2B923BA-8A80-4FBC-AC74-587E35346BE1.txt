@@ -1,0 +1,183 @@
+/Users/MiguelPorras/Desktop/Desktop/openalpr/src/build/plateDetector/2018/08/31/Morning/video/car/A2B923BA-8A80-4FBC-AC74-587E35346BE1.mp4
+plate log 
+Frame: 0
+Total Time to process image: 43.1384ms.
+Frame: 1
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 553.556ms.
+plate0: 10 results -- Processing Time = 107.911ms.
+    - P357FVB	 confidence: 86.5753
+    - P357FV8	 confidence: 83.0039
+    - P357FYB	 confidence: 77.6049
+    - P357VB	 confidence: 76.6209
+    - P357FB	 confidence: 76.3611
+    - P3S7FVB	 confidence: 75.7677
+    - P357PVB	 confidence: 75.5026
+    - P357FY8	 confidence: 74.0335
+    - P357V8	 confidence: 73.0496
+    - P357F8	 confidence: 72.7897
+Frame: 2
+Total Time to process image: 143.645ms.
+Frame: 3
+Total Time to process image: 127.918ms.
+Frame: 4
+Total Time to process image: 227.314ms.
+plate0: 10 results -- Processing Time = 28.5866ms.
+    - P57FB	 confidence: 81.0361
+    - P357FB	 confidence: 79.7432
+    - P57B	 confidence: 75.5034
+    - PS57FB	 confidence: 74.403
+    - P357B	 confidence: 74.2105
+    - P57FVB	 confidence: 74.1243
+    - P357FVB	 confidence: 72.8314
+    - P57F8	 confidence: 72.1686
+    - PS7FB	 confidence: 71.1498
+    - P57PB	 confidence: 71.1422
+Frame: 5
+Total Time to process image: 58.9883ms.
+Frame: 6
+Total Time to process image: 35.8937ms.
+Frame: 7
+Total Time to process image: 108.746ms.
+Frame: 8
+Total Time to process image: 101.844ms.
+Frame: 9
+Total Time to process image: 110.166ms.
+Frame: 10
+Total Time to process image: 107.038ms.
+Frame: 11
+Total Time to process image: 118.836ms.
+Frame: 12
+Total Time to process image: 84.2493ms.
+Frame: 13
+Total Time to process image: 102.939ms.
+Frame: 14
+Total Time to process image: 250.957ms.
+Frame: 15
+Total Time to process image: 214.396ms.
+Frame: 16
+Total Time to process image: 231.743ms.
+Frame: 17
+Total Time to process image: 191.906ms.
+Frame: 18
+Total Time to process image: 198.619ms.
+Frame: 19
+Total Time to process image: 148.525ms.
+Frame: 20
+Total Time to process image: 54.609ms.
+Frame: 21
+Total Time to process image: 93.7611ms.
+Frame: 22
+Total Time to process image: 118.951ms.
+Frame: 23
+Total Time to process image: 125.575ms.
+Frame: 24
+Total Time to process image: 68.7785ms.
+Frame: 25
+Total Time to process image: 55.4013ms.
+Frame: 26
+Total Time to process image: 57.0606ms.
+Frame: 27
+Total Time to process image: 61.1045ms.
+Frame: 28
+Total Time to process image: 122.892ms.
+Frame: 29
+Total Time to process image: 58.6425ms.
+Frame: 30
+Total Time to process image: 60.2413ms.
+Frame: 31
+Total Time to process image: 62.861ms.
+Frame: 32
+Total Time to process image: 60.8986ms.
+Frame: 33
+Total Time to process image: 73.3149ms.
+Frame: 34
+Total Time to process image: 65.0088ms.
+Frame: 35
+Total Time to process image: 45.1085ms.
+Frame: 36
+Total Time to process image: 47.0433ms.
+Frame: 37
+Total Time to process image: 46.921ms.
+Frame: 38
+Total Time to process image: 44.8912ms.
+Frame: 39
+Total Time to process image: 44.0966ms.
+Frame: 40
+Total Time to process image: 45.1105ms.
+Frame: 41
+Total Time to process image: 45.5084ms.
+Frame: 42
+Total Time to process image: 47.771ms.
+Frame: 43
+Total Time to process image: 42.5043ms.
+Frame: 44
+Total Time to process image: 42.6798ms.
+Frame: 45
+Total Time to process image: 47.2967ms.
+Frame: 46
+Total Time to process image: 50.1586ms.
+Frame: 47
+Total Time to process image: 49.1194ms.
+Frame: 48
+Total Time to process image: 45.2705ms.
+Frame: 49
+Total Time to process image: 60.9449ms.
+Frame: 50
+Total Time to process image: 60.2833ms.
+Frame: 51
+Total Time to process image: 43.2735ms.
+Frame: 52
+Total Time to process image: 42.1538ms.
+Frame: 53
+Total Time to process image: 41.6372ms.
+Frame: 54
+Total Time to process image: 43.4773ms.
+Frame: 55
+Total Time to process image: 40.1783ms.
+Frame: 56
+Total Time to process image: 42.2866ms.
+Frame: 57
+Total Time to process image: 43.7767ms.
+Frame: 58
+Total Time to process image: 40.7262ms.
+Frame: 59
+Total Time to process image: 41.5203ms.
+Frame: 60
+Total Time to process image: 43.7977ms.
+Frame: 61
+Total Time to process image: 39.3591ms.
+Frame: 62
+Total Time to process image: 43.6063ms.
+Frame: 63
+Total Time to process image: 40.8246ms.
+Frame: 64
+Total Time to process image: 41.3729ms.
+Frame: 65
+Total Time to process image: 41.8379ms.
+Frame: 66
+Total Time to process image: 43.9078ms.
+Frame: 67
+Total Time to process image: 41.2947ms.
+Frame: 68
+Total Time to process image: 45.657ms.
+Frame: 69
+Total Time to process image: 41.4049ms.
+Frame: 70
+Total Time to process image: 40.2339ms.
+Frame: 71
+Total Time to process image: 40.0786ms.
+Frame: 72
+Total Time to process image: 42.5827ms.
+Frame: 73
+Total Time to process image: 42.4402ms.
+Frame: 74
+Total Time to process image: 39.2318ms.
+
+splited plates 
+P357FVB,86.5753 P357FV8,83.0039 P357FYB,77.6049 P57FB,81.0361 P357FB,79.7432 P57B,75.5034 
+Plates 
+('P357FVB', 86.5753, 'plate'), ('P357FYB', 77.6049, 'plate')
+Final time 
+7224 ms
+7.224 s

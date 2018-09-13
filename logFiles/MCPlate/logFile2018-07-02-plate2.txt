@@ -1,0 +1,1173 @@
+/Users/MiguelPorras/Desktop/VideosPlacas/Videos/MCPlate/plate2.mp4
+plate log 
+Frame: 0
+Total Time to process image: 42.7202ms.
+Frame: 1
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 429.852ms.
+plate0: 10 results -- Processing Time = 26.5081ms.
+    - L693	 confidence: 76.7617
+    - L693B	 confidence: 69.8179
+    - 693B	 confidence: 68.7113
+    - L93B	 confidence: 67.7805
+    - L6938	 confidence: 65.3043
+    - 6938	 confidence: 64.1977
+    - L693C	 confidence: 63.4929
+    - L938	 confidence: 63.2669
+    - L693E	 confidence: 62.7436
+    - 693C	 confidence: 62.3863
+Frame: 2
+Total Time to process image: 473.872ms.
+plate0: 10 results -- Processing Time = 26.0845ms.
+    - 93BP	 confidence: 78.5229
+    - 193BP	 confidence: 72.2727
+    - 938P	 confidence: 69.6931
+    - 193P	 confidence: 68.8201
+    - 693BP	 confidence: 68.5541
+    - I93BP	 confidence: 67.7784
+    - 193B	 confidence: 67.0616
+    - 13BP	 confidence: 65.9528
+    - 93RP	 confidence: 65.8764
+    - 693P	 confidence: 65.1014
+Frame: 3
+Total Time to process image: 431.687ms.
+plate0: 10 results -- Processing Time = 25.282ms.
+    - 693BP	 confidence: 79.4262
+    - 693B	 confidence: 74.4445
+    - 93BP	 confidence: 74.2183
+    - 693P	 confidence: 73.303
+    - 693PP	 confidence: 72.9271
+    - 6938P	 confidence: 72.555
+    - 693RP	 confidence: 71.813
+    - 93PP	 confidence: 67.7192
+    - 69BP	 confidence: 67.6679
+    - 6938	 confidence: 67.5733
+Frame: 4
+Total Time to process image: 463.134ms.
+plate0: 10 results -- Processing Time = 25.2558ms.
+    - 693BP	 confidence: 80.3463
+    - 693BPL	 confidence: 80.0204
+    - 693P	 confidence: 73.1845
+    - 693PL	 confidence: 72.8587
+    - 6938P	 confidence: 68.8962
+    - 6938PL	 confidence: 68.5703
+    - 693B	 confidence: 68.5061
+    - 693BL	 confidence: 68.1802
+    - 63BP	 confidence: 64.9439
+    - 63BPL	 confidence: 64.618
+Frame: 5
+Total Time to process image: 435.723ms.
+plate0: 10 results -- Processing Time = 25.4174ms.
+    - 693R	 confidence: 76.2797
+    - 693RP	 confidence: 73.4857
+    - 69RP	 confidence: 71.8549
+    - 693RI	 confidence: 71.3474
+    - 1693R	 confidence: 70.6003
+    - 69RI	 confidence: 69.7166
+    - 0693R	 confidence: 69.5671
+    - 693RX	 confidence: 69.5244
+    - 169R	 confidence: 68.9695
+    - 693RPI	 confidence: 68.5535
+Frame: 6
+Total Time to process image: 440.412ms.
+plate0: 10 results -- Processing Time = 21.276ms.
+    - P075F3H	 confidence: 85.5528
+    - PQ75F3H	 confidence: 81.9827
+    - P075FH	 confidence: 81.2966
+    - P07F3H	 confidence: 79.5811
+    - PO75F3H	 confidence: 79.4784
+    - P0753H	 confidence: 78.9584
+    - PD75F3H	 confidence: 78.6496
+    - P07SF3H	 confidence: 78.1695
+    - PQ75FH	 confidence: 77.7265
+    - P075P3H	 confidence: 77.2845
+plate1: 10 results -- Processing Time = 22.4635ms.
+    - 93B1	 confidence: 79.9765
+    - 93BI	 confidence: 78.4424
+    - 9381	 confidence: 70.9928
+    - 938I	 confidence: 69.4588
+    - 93R1	 confidence: 67.3243
+    - 93U1	 confidence: 66.2552
+    - 93RI	 confidence: 65.7902
+    - 93O1	 confidence: 65.1875
+    - 93UI	 confidence: 64.7212
+    - 93OI	 confidence: 63.6534
+Frame: 7
+Total Time to process image: 470.651ms.
+plate0: 10 results -- Processing Time = 31.2708ms.
+    - 938P	 confidence: 81.4792
+    - 938PI	 confidence: 78.5736
+    - 938P1	 confidence: 75.6813
+    - 93BP	 confidence: 75.5799
+    - 938PJ	 confidence: 75.4865
+    - 93PI	 confidence: 75.314
+    - 93EP	 confidence: 74.4609
+    - B938P	 confidence: 73.8059
+    - 93BPI	 confidence: 72.6744
+    - 93P1	 confidence: 72.4218
+Frame: 8
+Total Time to process image: 503.018ms.
+plate0: 10 results -- Processing Time = 28.4791ms.
+    - 693BP	 confidence: 81.3102
+    - 6938P	 confidence: 76.537
+    - 693EP	 confidence: 76.4799
+    - 693P	 confidence: 76.2393
+    - 693BPJ	 confidence: 74.978
+    - 93BP	 confidence: 73.8842
+    - 6938PJ	 confidence: 70.2048
+    - 693EPJ	 confidence: 70.1477
+    - 693PJ	 confidence: 69.9071
+    - 938P	 confidence: 69.111
+Frame: 9
+Total Time to process image: 484.386ms.
+plate0: 5 results -- Processing Time = 25.3309ms.
+    - 693B	 confidence: 80.7562
+    - 693E	 confidence: 75.1831
+    - 6938	 confidence: 73.5803
+    - 693K	 confidence: 68.9787
+    - 6939	 confidence: 68.9465
+Frame: 10
+Total Time to process image: 486.21ms.
+plate0: 10 results -- Processing Time = 29.225ms.
+    - 693BP	 confidence: 81.1686
+    - 693P	 confidence: 78.0315
+    - 6938P	 confidence: 75.7203
+    - 693B	 confidence: 74.8711
+    - C693BP	 confidence: 73.1239
+    - 93BP	 confidence: 72.5393
+    - 693EP	 confidence: 72.3446
+    - C693P	 confidence: 69.9868
+    - 6938	 confidence: 69.4228
+    - C6938P	 confidence: 67.6756
+Frame: 11
+Total Time to process image: 450.488ms.
+plate0: 10 results -- Processing Time = 22.9077ms.
+    - E93BP	 confidence: 82.1261
+    - 93BP	 confidence: 79.1693
+    - E938P	 confidence: 77.2012
+    - E93P	 confidence: 74.8803
+    - E93SP	 confidence: 74.5392
+    - 938P	 confidence: 74.2444
+    - 93SP	 confidence: 71.5824
+    - E93BPU	 confidence: 69.1476
+    - E93BPQ	 confidence: 66.3759
+    - E93BPD	 confidence: 66.3465
+Frame: 12
+Total Time to process image: 454.48ms.
+plate0: 5 results -- Processing Time = 24.2218ms.
+    - 693B	 confidence: 83.3058
+    - 693E	 confidence: 73.4459
+    - 6938	 confidence: 73.444
+    - 693R	 confidence: 69.7917
+    - 693S	 confidence: 69.2362
+Frame: 13
+Total Time to process image: 435.054ms.
+Frame: 14
+Total Time to process image: 444.726ms.
+plate0: 10 results -- Processing Time = 22.4904ms.
+    - 93BP	 confidence: 81.6815
+    - 938P	 confidence: 77.1159
+    - B93BP	 confidence: 74.8509
+    - 93BPU	 confidence: 74.5573
+    - 93BF	 confidence: 73.466
+    - B938P	 confidence: 70.2852
+    - 938PU	 confidence: 69.9916
+    - 93BPH	 confidence: 69.6878
+    - 93BPO	 confidence: 69.0925
+    - 938F	 confidence: 68.9003
+Frame: 15
+Total Time to process image: 442.028ms.
+plate0: 10 results -- Processing Time = 28.3439ms.
+    - 93BP1	 confidence: 81.0014
+    - 93P1	 confidence: 79.571
+    - 93BPI1	 confidence: 77.9503
+    - 938P1	 confidence: 76.6339
+    - 93PI1	 confidence: 76.5199
+    - 93BP	 confidence: 75.7381
+    - 93RP1	 confidence: 74.4516
+    - 938PI1	 confidence: 73.5828
+    - 93SP1	 confidence: 73.0757
+    - 93BPI	 confidence: 72.687
+Frame: 16
+Total Time to process image: 441.532ms.
+plate0: 6 results -- Processing Time = 22.7536ms.
+    - 93BP	 confidence: 76.8288
+    - 938P	 confidence: 73.0194
+    - 93GP	 confidence: 70.1119
+    - 91BP	 confidence: 58.6037
+    - 918P	 confidence: 54.7943
+    - 91GP	 confidence: 51.8868
+Frame: 17
+Total Time to process image: 458.183ms.
+plate0: 10 results -- Processing Time = 26.602ms.
+    - 93BPJ	 confidence: 81.3262
+    - 938PJ	 confidence: 78.5274
+    - 93PJ	 confidence: 77.8623
+    - 93BP1	 confidence: 75.0637
+    - 93BP	 confidence: 73.2886
+    - P93BPJ	 confidence: 73.23
+    - B93BPJ	 confidence: 72.348
+    - 938P1	 confidence: 72.2649
+    - 93P1	 confidence: 71.5997
+    - 938P	 confidence: 70.4898
+Frame: 18
+Total Time to process image: 455.259ms.
+plate0: 10 results -- Processing Time = 25.3972ms.
+    - 693BPJ	 confidence: 82.4198
+    - 6938PJ	 confidence: 79.2773
+    - 693BPIJ	 confidence: 77.4303
+    - B693BPJ	 confidence: 76.8547
+    - 693PJ	 confidence: 76.4693
+    - 6938PIJ	 confidence: 74.2878
+    - B6938PJ	 confidence: 73.7122
+    - B693BPIJ	 confidence: 71.8652
+    - 693PIJ	 confidence: 71.4797
+    - B693PJ	 confidence: 70.9042
+Frame: 19
+Total Time to process image: 478.948ms.
+plate0: 10 results -- Processing Time = 24.9217ms.
+    - 93BP	 confidence: 80.1263
+    - 938P	 confidence: 76.688
+    - 9JBP	 confidence: 71.8835
+    - 9J8P	 confidence: 68.4452
+    - B93BP	 confidence: 67.1249
+    - K93BP	 confidence: 66.4395
+    - 893BP	 confidence: 66.158
+    - B93P	 confidence: 65.2573
+    - K93P	 confidence: 64.5719
+    - 893P	 confidence: 64.2905
+Frame: 20
+Total Time to process image: 440.936ms.
+plate0: 10 results -- Processing Time = 26.2441ms.
+    - 6938PE	 confidence: 80.8376
+    - 938PE	 confidence: 77.4136
+    - 693BPE	 confidence: 76.1929
+    - 6938P	 confidence: 73.221
+    - 693PE	 confidence: 73.0275
+    - 93BPE	 confidence: 72.7689
+    - 938P	 confidence: 69.797
+    - 93PE	 confidence: 69.6035
+    - 693BP	 confidence: 68.5764
+    - 693P	 confidence: 65.4109
+Frame: 21
+Total Time to process image: 475.868ms.
+plate0: 10 results -- Processing Time = 22.9196ms.
+    - 9BP1	 confidence: 82.1776
+    - 93BP1	 confidence: 79.9192
+    - 98P1	 confidence: 75.523
+    - 9BPI	 confidence: 74.5252
+    - 938P1	 confidence: 73.2646
+    - 9JBP1	 confidence: 72.3281
+    - 93BPI	 confidence: 72.2668
+    - 93BP	 confidence: 68.5639
+    - 98PI	 confidence: 67.8706
+    - 9BP1K	 confidence: 66.4982
+Frame: 22
+Total Time to process image: 479.441ms.
+plate0: 10 results -- Processing Time = 24.7844ms.
+    - 93E1	 confidence: 78.2712
+    - 93EI	 confidence: 76.6975
+    - 93B1	 confidence: 76.2199
+    - 93EP	 confidence: 75.7086
+    - 93EP1	 confidence: 75.6275
+    - 93BI	 confidence: 74.6462
+    - 693E	 confidence: 74.093
+    - 93EPI	 confidence: 74.0538
+    - 693E1	 confidence: 74.0119
+    - 93BP	 confidence: 73.6573
+Frame: 23
+Total Time to process image: 475.962ms.
+plate0: 10 results -- Processing Time = 23.7719ms.
+    - 693BP	 confidence: 78.8321
+    - 693B	 confidence: 75.4574
+    - 693P	 confidence: 75.4488
+    - 693DP	 confidence: 74.8166
+    - 93BP	 confidence: 74.0011
+    - 693QP	 confidence: 72.6808
+    - 6938P	 confidence: 72.6383
+    - 693OP	 confidence: 72.376
+    - 6930P	 confidence: 72.1985
+    - 693UP	 confidence: 72.0699
+Frame: 24
+Total Time to process image: 494.155ms.
+plate0: 10 results -- Processing Time = 28.5417ms.
+    - 93BPI1	 confidence: 79.4058
+    - 930PI1	 confidence: 76.3011
+    - 93BI1	 confidence: 76.11
+    - 938PI1	 confidence: 75.8179
+    - 93BP1	 confidence: 75.4223
+    - 3BPI1	 confidence: 75.1712
+    - 93EPI1	 confidence: 73.5802
+    - 93PI1	 confidence: 73.3774
+    - 930I1	 confidence: 73.0053
+    - 938I1	 confidence: 72.5221
+Frame: 25
+Total Time to process image: 471.815ms.
+plate0: 10 results -- Processing Time = 26.6731ms.
+    - 938P	 confidence: 79.9906
+    - 6938P	 confidence: 75.6279
+    - 938E	 confidence: 74.9168
+    - 93BP	 confidence: 74.4218
+    - 6938	 confidence: 73.5304
+    - 93EP	 confidence: 73.1636
+    - 6938E	 confidence: 70.5542
+    - 693BP	 confidence: 70.0591
+    - 93BE	 confidence: 69.348
+    - 693P	 confidence: 68.9746
+Frame: 26
+Total Time to process image: 464.168ms.
+plate0: 10 results -- Processing Time = 22.5394ms.
+    - 93BP1	 confidence: 77.7651
+    - 93BP	 confidence: 77.5597
+    - 93B1	 confidence: 76.2382
+    - 93BPI1	 confidence: 74.8134
+    - 93P1	 confidence: 74.7061
+    - 93BPI	 confidence: 74.608
+    - 93BE1	 confidence: 74.057
+    - 93BE	 confidence: 73.8516
+    - 193BP1	 confidence: 73.5641
+    - 193BP	 confidence: 73.3587
+Frame: 27
+Total Time to process image: 487.059ms.
+plate0: 10 results -- Processing Time = 23.6677ms.
+    - 693B	 confidence: 80.0302
+    - 693BP	 confidence: 77.2412
+    - 693BE	 confidence: 74.4518
+    - 693BPE	 confidence: 71.5174
+    - 93BP	 confidence: 71.4964
+    - B93B	 confidence: 69.8059
+    - 6936	 confidence: 69.2271
+    - 693BEE	 confidence: 68.728
+    - 93BE	 confidence: 68.707
+    - 6938	 confidence: 68.2316
+Frame: 28
+Total Time to process image: 461.428ms.
+plate0: 10 results -- Processing Time = 22.7192ms.
+    - 693B	 confidence: 79.6376
+    - 693BP	 confidence: 78.5993
+    - 693BI	 confidence: 76.2222
+    - P693B	 confidence: 75.3613
+    - 693BPI	 confidence: 75.1838
+    - 693B1	 confidence: 75.0241
+    - P693BP	 confidence: 74.3229
+    - 693BP1	 confidence: 73.9858
+    - P693BI	 confidence: 71.9458
+    - P693BPI	 confidence: 70.9075
+Frame: 29
+Total Time to process image: 469.201ms.
+plate0: 10 results -- Processing Time = 25.7512ms.
+    - 693B1	 confidence: 80.5829
+    - 693BP1	 confidence: 80.2013
+    - 69B1	 confidence: 78.987
+    - 69BP1	 confidence: 78.6055
+    - 69JB1	 confidence: 77.0946
+    - 69JBP1	 confidence: 76.713
+    - 6931	 confidence: 75.6416
+    - 693P1	 confidence: 75.26
+    - 69381	 confidence: 74.9616
+    - 6938P1	 confidence: 74.5801
+Frame: 30
+Total Time to process image: 454.961ms.
+plate0: 10 results -- Processing Time = 21.4195ms.
+    - 693B	 confidence: 80.1629
+    - 6938	 confidence: 71.7816
+    - 693B0	 confidence: 70.8209
+    - 693BO	 confidence: 70.5988
+    - 93B0	 confidence: 69.7917
+    - 93BO	 confidence: 69.5695
+    - 69JB	 confidence: 65.2432
+    - 69380	 confidence: 62.4396
+    - 6938O	 confidence: 62.2175
+    - 9380	 confidence: 61.4104
+Frame: 31
+Total Time to process image: 465.373ms.
+plate0: 10 results -- Processing Time = 21.771ms.
+    - 93BP	 confidence: 78.2395
+    - 9JBP	 confidence: 75.6922
+    - 693P	 confidence: 75.5062
+    - 193P	 confidence: 74.2327
+    - 693BP	 confidence: 73.9984
+    - 938P	 confidence: 73.9583
+    - 69JP	 confidence: 72.959
+    - 193BP	 confidence: 72.7249
+    - 69BP	 confidence: 72.552
+    - 93P1	 confidence: 71.7222
+Frame: 32
+Total Time to process image: 459.183ms.
+plate0: 10 results -- Processing Time = 22.7712ms.
+    - 693E1	 confidence: 79.8498
+    - 69E1	 confidence: 77.327
+    - 69381	 confidence: 76.8584
+    - 6981	 confidence: 74.3356
+    - 6931	 confidence: 73.7646
+    - 693E	 confidence: 73.4562
+    - 693B1	 confidence: 73.2514
+    - 93E1	 confidence: 72.466
+    - 69JE1	 confidence: 72.2953
+    - 693EF1	 confidence: 71.6753
+Frame: 33
+Total Time to process image: 464.733ms.
+plate0: 6 results -- Processing Time = 19.839ms.
+    - 693E	 confidence: 75.3549
+    - 69JE	 confidence: 70.2481
+    - 693B	 confidence: 70.088
+    - 6938	 confidence: 66.2439
+    - 69JB	 confidence: 64.9811
+    - 69J8	 confidence: 61.137
+Frame: 34
+Total Time to process image: 485.512ms.
+plate0: 10 results -- Processing Time = 20.9174ms.
+    - 93P1	 confidence: 76.4512
+    - I93P	 confidence: 71.0474
+    - 93BP	 confidence: 69.934
+    - 193P	 confidence: 69.8668
+    - 938P	 confidence: 66.6549
+    - I9P1	 confidence: 65.3282
+    - 93UP	 confidence: 64.4715
+    - 9BP1	 confidence: 64.2148
+    - 19P1	 confidence: 64.1476
+    - 93SP	 confidence: 64.0815
+Frame: 35
+Total Time to process image: 468.791ms.
+plate0: 10 results -- Processing Time = 23.5076ms.
+    - 938P	 confidence: 78.2955
+    - 938PJ	 confidence: 75.8476
+    - 938P1	 confidence: 74.864
+    - P938P	 confidence: 73.9699
+    - 93EP	 confidence: 73.2707
+    - 938J	 confidence: 72.9486
+    - 9381	 confidence: 71.965
+    - P938PJ	 confidence: 71.522
+    - 93BP	 confidence: 71.2448
+    - P938	 confidence: 71.0709
+Frame: 36
+Total Time to process image: 458.212ms.
+plate0: 10 results -- Processing Time = 21.1937ms.
+    - 6931	 confidence: 78.9934
+    - 69381	 confidence: 78.8735
+    - 693I	 confidence: 78.6201
+    - 6938I	 confidence: 78.5002
+    - 693I1	 confidence: 76.3014
+    - 6938I1	 confidence: 76.1814
+    - 693II	 confidence: 75.9281
+    - 6938II	 confidence: 75.8081
+    - 693L1	 confidence: 75.596
+    - 693LI	 confidence: 75.2227
+Frame: 37
+Total Time to process image: 483.098ms.
+plate0: 10 results -- Processing Time = 20.5733ms.
+    - 693BP	 confidence: 79.8189
+    - 693B	 confidence: 79.3042
+    - 693P	 confidence: 78.4876
+    - 93BP	 confidence: 75.6348
+    - 693UP	 confidence: 74.6776
+    - 693QP	 confidence: 74.6664
+    - 693U	 confidence: 74.1629
+    - 693Q	 confidence: 74.1517
+    - 6938P	 confidence: 73.8259
+    - 693HP	 confidence: 73.8185
+Frame: 38
+Total Time to process image: 481.843ms.
+plate0: 10 results -- Processing Time = 19.6284ms.
+    - 693BP	 confidence: 80.7072
+    - 693P	 confidence: 80.6446
+    - 693BPI	 confidence: 78.6225
+    - 693PI	 confidence: 78.56
+    - 693B	 confidence: 77.1761
+    - 693EP	 confidence: 76.4049
+    - 6938P	 confidence: 76.3239
+    - 693BP1	 confidence: 75.2236
+    - 693P1	 confidence: 75.1611
+    - 693BI	 confidence: 75.0914
+Frame: 39
+Total Time to process image: 504.187ms.
+plate0: 10 results -- Processing Time = 22.7571ms.
+    - 693E	 confidence: 80.7638
+    - 693D	 confidence: 79.3456
+    - 693B	 confidence: 76.0307
+    - 693EP	 confidence: 75.6778
+    - 693O	 confidence: 75.3057
+    - 6938	 confidence: 75.283
+    - 693EU	 confidence: 75.0138
+    - 693DP	 confidence: 74.2597
+    - 693DU	 confidence: 73.5956
+    - 693ED	 confidence: 73.5955
+Frame: 40
+Total Time to process image: 479.896ms.
+plate0: 10 results -- Processing Time = 22.8879ms.
+    - 693B	 confidence: 79.9589
+    - 693E	 confidence: 79.9116
+    - 693BP	 confidence: 77.5746
+    - 693EP	 confidence: 77.5273
+    - 6938	 confidence: 74.9454
+    - 693D	 confidence: 74.8203
+    - 693B9	 confidence: 73.8382
+    - 693E9	 confidence: 73.791
+    - 6938P	 confidence: 72.5611
+    - 693DP	 confidence: 72.436
+Frame: 41
+Total Time to process image: 507.401ms.
+plate0: 10 results -- Processing Time = 22.9033ms.
+    - 69311	 confidence: 77.3025
+    - 693P11	 confidence: 76.5319
+    - 6931	 confidence: 76.4783
+    - 693I1	 confidence: 75.997
+    - 693B11	 confidence: 75.7896
+    - 693P1	 confidence: 75.7077
+    - 693PI1	 confidence: 75.2264
+    - 693I	 confidence: 75.1728
+    - 693BP11	 confidence: 75.019
+    - 693B1	 confidence: 74.9655
+Frame: 42
+Total Time to process image: 478.844ms.
+plate0: 6 results -- Processing Time = 23.7192ms.
+    - 93B1	 confidence: 83.8227
+    - 93E1	 confidence: 77.1861
+    - 9381	 confidence: 76.2132
+    - 93BI	 confidence: 67.2847
+    - 93EI	 confidence: 60.6481
+    - 938I	 confidence: 59.6751
+Frame: 43
+Total Time to process image: 473.352ms.
+plate0: 10 results -- Processing Time = 25.2078ms.
+    - 938P	 confidence: 77.6479
+    - 93BP	 confidence: 73.8281
+    - 93LP	 confidence: 73.6619
+    - 693P	 confidence: 73.4017
+    - 6938P	 confidence: 72.9279
+    - 93EP	 confidence: 71.5726
+    - 93RP	 confidence: 71.139
+    - 93P1	 confidence: 70.7058
+    - 938P1	 confidence: 70.2319
+    - B93P	 confidence: 69.9384
+Frame: 44
+Total Time to process image: 472.559ms.
+plate0: 10 results -- Processing Time = 20.2951ms.
+    - 93BP	 confidence: 77.6889
+    - 93EP	 confidence: 75.4055
+    - P93BP	 confidence: 75.3042
+    - P93P	 confidence: 74.8788
+    - P93EP	 confidence: 73.0208
+    - 938P	 confidence: 72.3322
+    - 93LP	 confidence: 72.124
+    - 93UP	 confidence: 71.8444
+    - 93B9	 confidence: 70.5383
+    - P938P	 confidence: 69.9475
+Frame: 45
+Total Time to process image: 472.909ms.
+plate0: 3 results -- Processing Time = 21.888ms.
+    - 693U	 confidence: 80.3203
+    - 693H	 confidence: 72.3204
+    - 693O	 confidence: 70.517
+Frame: 46
+Total Time to process image: 473.536ms.
+plate0: 10 results -- Processing Time = 25.9597ms.
+    - I693B11	 confidence: 79.2337
+    - I693BP11	 confidence: 77.7412
+    - 693B11	 confidence: 77.2351
+    - I693B1	 confidence: 76.8245
+    - 1693B11	 confidence: 76.3076
+    - I693BI1	 confidence: 76.0626
+    - 693BP11	 confidence: 75.7426
+    - I693BP1	 confidence: 75.332
+    - 693B1	 confidence: 74.8259
+    - 1693BP11	 confidence: 74.8151
+Frame: 47
+Total Time to process image: 466.648ms.
+plate0: 10 results -- Processing Time = 21.6857ms.
+    - 1693BPI	 confidence: 85.3675
+    - 1693BPI1	 confidence: 82.8203
+    - 1693PI	 confidence: 82.2518
+    - 16938PI	 confidence: 80.6779
+    - 1693LPI	 confidence: 80.1206
+    - I693BPI	 confidence: 80.1059
+    - 1693PI1	 confidence: 79.7046
+    - 1693BP1	 confidence: 79.5044
+    - 1693EPI	 confidence: 78.3865
+    - 16938PI1	 confidence: 78.1306
+Frame: 48
+Total Time to process image: 547.651ms.
+plate0: 10 results -- Processing Time = 24.1271ms.
+    - 693BP	 confidence: 80.9591
+    - 693P	 confidence: 78.197
+    - 693LP	 confidence: 77.4242
+    - B693BP	 confidence: 77.3027
+    - 6938P	 confidence: 76.0245
+    - 693DP	 confidence: 75.6998
+    - 8693BP	 confidence: 74.9948
+    - B693P	 confidence: 74.5406
+    - 693RP	 confidence: 73.8596
+    - B693LP	 confidence: 73.7678
+Frame: 49
+Total Time to process image: 550.719ms.
+plate0: 10 results -- Processing Time = 39.486ms.
+    - 693BP	 confidence: 79.6667
+    - 693BPI	 confidence: 77.0274
+    - 693BP1	 confidence: 76.4664
+    - 93BP	 confidence: 75.0454
+    - 6938P	 confidence: 73.1038
+    - 93BPI	 confidence: 72.4061
+    - 693LP	 confidence: 72.0004
+    - 693P	 confidence: 71.8568
+    - 93BP1	 confidence: 71.8451
+    - 693B	 confidence: 70.8291
+Frame: 50
+Total Time to process image: 979.449ms.
+plate0: 10 results -- Processing Time = 28.3888ms.
+    - 669L	 confidence: 77.8044
+    - 69JL	 confidence: 75.2786
+    - 669U	 confidence: 75.2475
+    - 69JU	 confidence: 72.7217
+    - 669JL	 confidence: 65.6863
+    - 669V	 confidence: 65.4329
+    - 669O	 confidence: 64.1018
+    - 669D	 confidence: 63.9723
+    - 669J	 confidence: 63.8303
+    - 669Q	 confidence: 63.4318
+Frame: 51
+Total Time to process image: 1919.79ms.
+plate0: 10 results -- Processing Time = 34.2206ms.
+    - 693BP1	 confidence: 80.1154
+    - 693BP	 confidence: 77.7932
+    - 6938P1	 confidence: 75.7549
+    - 693P1	 confidence: 75.4721
+    - 693BP1X	 confidence: 75.1645
+    - 93BP1	 confidence: 75.1186
+    - 693BPI	 confidence: 74.6305
+    - 693LP1	 confidence: 74.2874
+    - 6938P	 confidence: 73.4327
+    - 693P	 confidence: 73.1499
+Frame: 52
+Total Time to process image: 543.416ms.
+plate0: 10 results -- Processing Time = 28.1062ms.
+    - 693BP1	 confidence: 77.0242
+    - 69BP1	 confidence: 75.9891
+    - P693BP1	 confidence: 74.3803
+    - P69BP1	 confidence: 73.3452
+    - 93BP1	 confidence: 71.4949
+    - 6936P1	 confidence: 71.4599
+    - 63BP1	 confidence: 71.0058
+    - 693B1	 confidence: 70.7194
+    - 9BP1	 confidence: 70.4598
+    - 696P1	 confidence: 70.4249
+Frame: 53
+Total Time to process image: 559.896ms.
+plate0: 10 results -- Processing Time = 24.6433ms.
+    - 693BP	 confidence: 78.518
+    - 693P	 confidence: 78.0348
+    - 93BP	 confidence: 76.0785
+    - 693EP	 confidence: 74.7229
+    - P693BP	 confidence: 73.4856
+    - P693P	 confidence: 73.0024
+    - B693BP	 confidence: 72.604
+    - 93EP	 confidence: 72.2833
+    - B693P	 confidence: 72.1208
+    - 6938P	 confidence: 71.1033
+Frame: 54
+Total Time to process image: 724.815ms.
+plate0: 10 results -- Processing Time = 28.4804ms.
+    - 693BP	 confidence: 80.1339
+    - 69JBP	 confidence: 79.1591
+    - 69BP	 confidence: 77.7292
+    - 93BP	 confidence: 77.6885
+    - 9JBP	 confidence: 76.7137
+    - 693BP1	 confidence: 75.2083
+    - 69JBP1	 confidence: 74.2335
+    - 6938P	 confidence: 72.9562
+    - 69BP1	 confidence: 72.8036
+    - 93BP1	 confidence: 72.7629
+Frame: 55
+Total Time to process image: 560.68ms.
+plate0: 10 results -- Processing Time = 29.0886ms.
+    - P693BP	 confidence: 77.1049
+    - 693BP	 confidence: 76.4507
+    - P69BP	 confidence: 76.4248
+    - 69BP	 confidence: 75.7707
+    - P63BP	 confidence: 75.2653
+    - 63BP	 confidence: 74.6111
+    - P6BP	 confidence: 74.5852
+    - P693BP1	 confidence: 73.3311
+    - P693EP	 confidence: 73.1964
+    - 693BP1	 confidence: 72.6769
+Frame: 56
+Total Time to process image: 520.913ms.
+plate0: 10 results -- Processing Time = 23.3033ms.
+    - 693BP	 confidence: 77.8003
+    - 93BP	 confidence: 76.4709
+    - 693BPU	 confidence: 75.6975
+    - 93BPU	 confidence: 74.3681
+    - 6938P	 confidence: 72.1288
+    - 63BP	 confidence: 71.4531
+    - 938P	 confidence: 70.7994
+    - B93BP	 confidence: 70.4251
+    - 6938PU	 confidence: 70.026
+    - 693P	 confidence: 69.6049
+Frame: 57
+Total Time to process image: 522.798ms.
+plate0: 10 results -- Processing Time = 25.657ms.
+    - 93BP	 confidence: 78.9765
+    - 693BP	 confidence: 78.2459
+    - 93BPU	 confidence: 74.0522
+    - 69BP	 confidence: 73.8585
+    - 693BPU	 confidence: 73.3217
+    - 938P	 confidence: 71.9059
+    - 6938P	 confidence: 71.1754
+    - 9BPU	 confidence: 69.6648
+    - 693P	 confidence: 69.3664
+    - 93RP	 confidence: 69.0887
+Frame: 58
+Total Time to process image: 505.778ms.
+plate0: 10 results -- Processing Time = 25.809ms.
+    - 93BP1	 confidence: 78.8936
+    - 93BPI	 confidence: 77.0639
+    - 93BP	 confidence: 75.5447
+    - 693BP1	 confidence: 72.8869
+    - 93P1	 confidence: 72.7229
+    - 938P1	 confidence: 72.4442
+    - 693BPI	 confidence: 71.0572
+    - 3BP1	 confidence: 71.0409
+    - 93PI	 confidence: 70.8932
+    - G93BP1	 confidence: 70.7064
+Frame: 59
+Total Time to process image: 507.757ms.
+plate0: 10 results -- Processing Time = 22.8155ms.
+    - 93BP	 confidence: 79.4992
+    - 93P4	 confidence: 76.797
+    - 693P	 confidence: 76.3347
+    - 936P	 confidence: 75.7194
+    - 93RP	 confidence: 74.5557
+    - 93BP4	 confidence: 71.9126
+    - 693BP	 confidence: 71.4503
+    - 693P4	 confidence: 68.7481
+    - 93B4	 confidence: 68.6802
+    - 693B	 confidence: 68.2178
+Frame: 60
+Total Time to process image: 505.134ms.
+plate0: 10 results -- Processing Time = 23.7243ms.
+    - 93P1	 confidence: 76.2341
+    - 93BP1	 confidence: 75.0399
+    - 3BP1	 confidence: 72.9175
+    - 93BP	 confidence: 72.9119
+    - 93PI	 confidence: 71.5812
+    - 93P11	 confidence: 71.3799
+    - 93B1	 confidence: 71.0881
+    - 93RP1	 confidence: 71.064
+    - 938P1	 confidence: 71.031
+    - 93BPI	 confidence: 70.387
+Frame: 61
+Total Time to process image: 498.78ms.
+Frame: 62
+Total Time to process image: 509.36ms.
+plate0: 10 results -- Processing Time = 26.3299ms.
+    - 93P1	 confidence: 76.4389
+    - 93PI	 confidence: 72.1634
+    - 93BP	 confidence: 71.5289
+    - 693P	 confidence: 71.3292
+    - 93BP1	 confidence: 71.07
+    - 693P1	 confidence: 70.8703
+    - 9BP1	 confidence: 69.7571
+    - 69P1	 confidence: 69.5574
+    - P93P	 confidence: 69.2487
+    - P93P1	 confidence: 68.7898
+Frame: 63
+Total Time to process image: 508.648ms.
+plate0: 10 results -- Processing Time = 22.8743ms.
+    - 63B1	 confidence: 76.8316
+    - 3B1X	 confidence: 74.2639
+    - 63B1X	 confidence: 73.3122
+    - 63BI	 confidence: 73.041
+    - B3B1	 confidence: 72.2608
+    - 3BP1	 confidence: 72.1801
+    - 631X	 confidence: 71.7395
+    - 63BP1	 confidence: 71.2284
+    - 6381	 confidence: 71.1604
+    - 93B1	 confidence: 71.1493
+Frame: 64
+Total Time to process image: 523.641ms.
+plate0: 10 results -- Processing Time = 21.089ms.
+    - 693B	 confidence: 77.9198
+    - 693P	 confidence: 75.0418
+    - 693BP	 confidence: 74.2282
+    - 6931	 confidence: 72.7057
+    - 6939	 confidence: 72.486
+    - 693B1	 confidence: 71.892
+    - 693B9	 confidence: 71.6723
+    - 693J	 confidence: 71.6111
+    - 69JB	 confidence: 71.075
+    - 6938	 confidence: 71.0718
+Frame: 65
+Total Time to process image: 562.657ms.
+plate0: 10 results -- Processing Time = 23.6418ms.
+    - 693B	 confidence: 75.8931
+    - 93BP	 confidence: 75.8464
+    - 93B1	 confidence: 75.1517
+    - 63BP	 confidence: 74.5884
+    - 63B1	 confidence: 73.8938
+    - 3BP1	 confidence: 73.847
+    - 693P	 confidence: 73.6559
+    - 693BP	 confidence: 73.2933
+    - 6931	 confidence: 72.9612
+    - 93P1	 confidence: 72.9145
+Frame: 66
+Total Time to process image: 493.942ms.
+plate0: 10 results -- Processing Time = 21.1685ms.
+    - 693PL	 confidence: 77.5348
+    - 693P	 confidence: 77.3361
+    - 693BPL	 confidence: 77.2247
+    - 693BP	 confidence: 77.0261
+    - 693L	 confidence: 75.4971
+    - 93PL	 confidence: 75.2472
+    - 693BL	 confidence: 75.1871
+    - 693B	 confidence: 74.9884
+    - 93BPL	 confidence: 74.9371
+    - 93BP	 confidence: 74.7385
+Frame: 67
+Total Time to process image: 490.283ms.
+plate0: 4 results -- Processing Time = 21.0007ms.
+    - 93BU	 confidence: 78.9866
+    - 9JBU	 confidence: 68.5298
+    - 938U	 confidence: 62.1692
+    - 9J8U	 confidence: 51.7124
+Frame: 68
+Total Time to process image: 500.502ms.
+plate0: 10 results -- Processing Time = 21.9328ms.
+    - 93B1	 confidence: 78.3898
+    - 93B11	 confidence: 74.846
+    - 9JB1	 confidence: 74.2824
+    - 93BP1	 confidence: 72.4202
+    - 9311	 confidence: 71.0875
+    - 9JB11	 confidence: 70.7386
+    - 93BI1	 confidence: 70.3033
+    - 9B11	 confidence: 69.7138
+    - 9381	 confidence: 69.3416
+    - 93BP11	 confidence: 68.8764
+Frame: 69
+Total Time to process image: 502.758ms.
+plate0: 10 results -- Processing Time = 21.8742ms.
+    - 693B	 confidence: 78.9177
+    - 693BP	 confidence: 77.0082
+    - 693BU	 confidence: 74.2332
+    - 693BPU	 confidence: 72.3237
+    - 6938	 confidence: 72.2736
+    - B693B	 confidence: 72.1532
+    - 93BP	 confidence: 71.6609
+    - 693R	 confidence: 70.5137
+    - 693BH	 confidence: 70.3989
+    - 6938P	 confidence: 70.3641
+Frame: 70
+Total Time to process image: 509.516ms.
+plate0: 10 results -- Processing Time = 25.2634ms.
+    - 93P1	 confidence: 77.5668
+    - 693P	 confidence: 76.5918
+    - 6931	 confidence: 74.5908
+    - 93PQ	 confidence: 73.7284
+    - 693P1	 confidence: 73.0993
+    - 93LP	 confidence: 71.9539
+    - 931Q	 confidence: 71.7274
+    - 693Q	 confidence: 70.7525
+    - 93P1Q	 confidence: 70.2358
+    - 93PI	 confidence: 70.0663
+Frame: 71
+Total Time to process image: 503.734ms.
+plate0: 10 results -- Processing Time = 21.8425ms.
+    - 693BP	 confidence: 80.4409
+    - 69BP	 confidence: 75.8874
+    - 693P	 confidence: 73.6636
+    - 693LP	 confidence: 73.2333
+    - 69JBP	 confidence: 72.9315
+    - 93BP	 confidence: 72.9096
+    - 6938P	 confidence: 72.3967
+    - 693BP1	 confidence: 70.2244
+    - 693RP	 confidence: 69.8804
+    - 693BPI	 confidence: 69.0097
+Frame: 72
+Total Time to process image: 515.924ms.
+plate0: 10 results -- Processing Time = 22.1426ms.
+    - 93BP	 confidence: 78.7601
+    - 938P	 confidence: 70.3786
+    - B93BP	 confidence: 70.2205
+    - B93B	 confidence: 69.802
+    - 93BPU	 confidence: 69.6674
+    - 93BU	 confidence: 69.2489
+    - 93LP	 confidence: 67.7906
+    - B9BP	 confidence: 64.3548
+    - 9BPU	 confidence: 63.8017
+    - B93P	 confidence: 62.5773
+Frame: 73
+Total Time to process image: 501.551ms.
+plate0: 10 results -- Processing Time = 19.6711ms.
+    - 93BP11	 confidence: 80.1838
+    - 93BP1	 confidence: 78.756
+    - 9BP11	 confidence: 77.1528
+    - 93BPI1	 confidence: 76.66
+    - 93B11	 confidence: 76.1214
+    - 9BP1	 confidence: 75.7249
+    - 93B1	 confidence: 74.6936
+    - 93B911	 confidence: 74.0324
+    - 9BPI1	 confidence: 73.6289
+    - 693BP11	 confidence: 73.5453
+Frame: 74
+Total Time to process image: 511.731ms.
+plate0: 10 results -- Processing Time = 20.9952ms.
+    - 693BP	 confidence: 80.9664
+    - 693B	 confidence: 80.4019
+    - 693P	 confidence: 78.7273
+    - 693BP1	 confidence: 78.3742
+    - 693B1	 confidence: 77.8097
+    - 693P1	 confidence: 76.1351
+    - B693BP	 confidence: 76.0136
+    - 6931	 confidence: 75.5705
+    - B693B	 confidence: 75.4491
+    - 693BPI	 confidence: 75.2849
+Frame: 75
+Total Time to process image: 496.748ms.
+plate0: 10 results -- Processing Time = 21.164ms.
+    - 698Z	 confidence: 77.5236
+    - 6938	 confidence: 76.0625
+    - 693Z	 confidence: 75.748
+    - 698P	 confidence: 74.7502
+    - 69PZ	 confidence: 74.4356
+    - 69BZ	 confidence: 74.1397
+    - 69RZ	 confidence: 73.6435
+    - 693P	 confidence: 72.9746
+    - 6938Z	 confidence: 72.8021
+    - 693B	 confidence: 72.6786
+Frame: 76
+Total Time to process image: 517.761ms.
+plate0: 10 results -- Processing Time = 22.5319ms.
+    - 693BP	 confidence: 79.8683
+    - 693B	 confidence: 74.793
+    - 69BP	 confidence: 74.4088
+    - 693LP	 confidence: 72.0344
+    - 6938P	 confidence: 71.8851
+    - 693P	 confidence: 71.4198
+    - B693BP	 confidence: 70.5144
+    - 63BP	 confidence: 69.3193
+    - 693EP	 confidence: 68.8552
+    - 693L	 confidence: 66.959
+Frame: 77
+Total Time to process image: 661.023ms.
+plate0: 10 results -- Processing Time = 20.9242ms.
+    - 693P	 confidence: 76.5479
+    - 693BP	 confidence: 75.9549
+    - 93BP	 confidence: 74.5035
+    - 693PI	 confidence: 74.2101
+    - 693B	 confidence: 73.6683
+    - 693BPI	 confidence: 73.6171
+    - 93PI	 confidence: 72.7588
+    - 93BPI	 confidence: 72.1657
+    - 693I	 confidence: 71.9235
+    - 693P1	 confidence: 71.8395
+Frame: 78
+Total Time to process image: 514.375ms.
+plate0: 10 results -- Processing Time = 19.2776ms.
+    - 6931	 confidence: 77.9844
+    - 693P1	 confidence: 76.6939
+    - 693P	 confidence: 73.9383
+    - 693I	 confidence: 71.1129
+    - 93P1	 confidence: 70.8088
+    - 693PI	 confidence: 69.8224
+    - 693B1	 confidence: 68.4553
+    - 693BP1	 confidence: 67.1647
+    - 693B	 confidence: 65.6997
+    - 693BP	 confidence: 64.4091
+Frame: 79
+Total Time to process image: 500.184ms.
+plate0: 10 results -- Processing Time = 21.1915ms.
+    - 93EP	 confidence: 78.5058
+    - 93BP	 confidence: 76.2995
+    - B93E	 confidence: 75.2435
+    - B93EP	 confidence: 73.5136
+    - B93B	 confidence: 73.0373
+    - B93BP	 confidence: 71.3074
+    - 93EU	 confidence: 71.0395
+    - 938P	 confidence: 69.9555
+    - 93EPU	 confidence: 69.3096
+    - 93EH	 confidence: 69.191
+Frame: 80
+Total Time to process image: 508.862ms.
+plate0: 6 results -- Processing Time = 23.8341ms.
+    - D93R	 confidence: 77.9793
+    - B93R	 confidence: 76.1991
+    - Q93R	 confidence: 75.9238
+    - O93R	 confidence: 75.8431
+    - G93R	 confidence: 75.5144
+    - 693R	 confidence: 75.1076
+Frame: 81
+Total Time to process image: 509.097ms.
+plate0: 10 results -- Processing Time = 20.62ms.
+    - B693	 confidence: 76.0969
+    - 693H	 confidence: 73.42
+    - 6936	 confidence: 72.3551
+    - 693U	 confidence: 70.9202
+    - 693E	 confidence: 70.6326
+    - B69H	 confidence: 66.4396
+    - B696	 confidence: 65.3747
+    - B693H	 confidence: 63.9723
+    - B69U	 confidence: 63.9398
+    - B69E	 confidence: 63.6523
+Frame: 82
+Total Time to process image: 504.958ms.
+plate0: 1 results -- Processing Time = 16.3714ms.
+    - B693	 confidence: 77.0347
+Frame: 83
+Total Time to process image: 487.182ms.
+plate0: 10 results -- Processing Time = 21.0975ms.
+    - 6931	 confidence: 77.0762
+    - 693E1	 confidence: 72.1666
+    - 93E1	 confidence: 71.5038
+    - B931	 confidence: 71.2442
+    - 63E1	 confidence: 67.1991
+    - B93E1	 confidence: 66.3346
+    - 69361	 confidence: 62.9674
+    - 9361	 confidence: 62.3046
+    - B3E1	 confidence: 61.3671
+    - 693E	 confidence: 60.2327
+Frame: 84
+Total Time to process image: 483.641ms.
+plate0: 6 results -- Processing Time = 18.5288ms.
+    - 693B	 confidence: 76.683
+    - 6938	 confidence: 69.6098
+    - 693R	 confidence: 65.1953
+    - 69JB	 confidence: 47.3655
+    - 69J8	 confidence: 40.2923
+    - 69JR	 confidence: 35.8778
+Frame: 85
+Total Time to process image: 479.581ms.
+plate0: 10 results -- Processing Time = 18.6075ms.
+    - B93B	 confidence: 76.404
+    - 693B	 confidence: 76.3885
+    - B936	 confidence: 73.189
+    - 6936	 confidence: 73.1735
+    - 93B1	 confidence: 70.4378
+    - B693	 confidence: 68.5652
+    - 9361	 confidence: 67.2228
+    - B693B	 confidence: 65.865
+    - B63B	 confidence: 64.351
+    - B6936	 confidence: 62.6499
+Frame: 86
+Total Time to process image: 515.192ms.
+plate0: 10 results -- Processing Time = 18.5319ms.
+    - 6931	 confidence: 77.2193
+    - 69J1	 confidence: 67.6972
+    - 693I	 confidence: 67.3314
+    - 69JI	 confidence: 57.8094
+    - I931	 confidence: 57.7129
+    - G931	 confidence: 56.7222
+    - C931	 confidence: 56.6066
+    - I631	 confidence: 55.2576
+    - G631	 confidence: 54.2669
+    - C631	 confidence: 54.1512
+Frame: 87
+Total Time to process image: 479.377ms.
+plate0: 3 results -- Processing Time = 19.1388ms.
+    - B693	 confidence: 80.1876
+    - B893	 confidence: 57.1356
+    - BB93	 confidence: 56.1202
+Frame: 88
+Total Time to process image: 483.777ms.
+plate0: 10 results -- Processing Time = 21.9932ms.
+    - 6931	 confidence: 81.557
+    - E931	 confidence: 76.3223
+    - E693	 confidence: 76.1019
+    - C931	 confidence: 73.9488
+    - C693	 confidence: 73.7284
+    - 69J1	 confidence: 71.7274
+    - E9J1	 confidence: 66.4927
+    - E69J	 confidence: 66.2723
+    - C9J1	 confidence: 64.1192
+    - C69J	 confidence: 63.8989
+Frame: 89
+Total Time to process image: 484.522ms.
+Frame: 90
+Total Time to process image: 466.207ms.
+plate0: 10 results -- Processing Time = 17.8756ms.
+    - 6931	 confidence: 74.9051
+    - I931	 confidence: 62.4932
+    - 1931	 confidence: 60.7793
+    - I631	 confidence: 58.4339
+    - I6931	 confidence: 57.6859
+    - 1631	 confidence: 56.72
+    - 16931	 confidence: 55.972
+    - 69S1	 confidence: 55.4514
+    - I691	 confidence: 55.1133
+    - 1691	 confidence: 53.3994
+Frame: 91
+Total Time to process image: 468.446ms.
+plate0: 10 results -- Processing Time = 17.785ms.
+    - 6931	 confidence: 74.9146
+    - 1693	 confidence: 72.3181
+    - I693	 confidence: 67.3356
+    - P693	 confidence: 64.7792
+    - 1931	 confidence: 64.3657
+    - 693I	 confidence: 62.6219
+    - I931	 confidence: 59.3832
+    - 16931	 confidence: 58.1585
+    - P931	 confidence: 56.8268
+    - 1691	 confidence: 53.7481
+Frame: 92
+Total Time to process image: 462.129ms.
+plate0: 4 results -- Processing Time = 17.625ms.
+    - 1693	 confidence: 74.5455
+    - I693	 confidence: 66.1756
+    - 1B93	 confidence: 63.8975
+    - IB93	 confidence: 55.5276
+Frame: 93
+Total Time to process image: 459.473ms.
+Frame: 94
+Total Time to process image: 465.563ms.
+Frame: 95
+Total Time to process image: 454.207ms.
+plate0: 10 results -- Processing Time = 20.5765ms.
+    - 693J	 confidence: 78.734
+    - 938J	 confidence: 74.5577
+    - 93BJ	 confidence: 71.6699
+    - 93SJ	 confidence: 70.2333
+    - 6938J	 confidence: 70.0781
+    - 693BJ	 confidence: 67.1904
+    - 693SJ	 confidence: 65.7537
+    - 638J	 confidence: 64.5337
+    - 63BJ	 confidence: 61.6459
+    - 698J	 confidence: 60.4407
+Frame: 96
+Total Time to process image: 453.877ms.
+plate0: 1 results -- Processing Time = 19.0147ms.
+    - 693L	 confidence: 74.7256
+Frame: 97
+Total Time to process image: 482.05ms.
+plate0: 10 results -- Processing Time = 25.688ms.
+    - 93CF	 confidence: 75.2087
+    - 93CE	 confidence: 69.4418
+    - I3CF	 confidence: 60.5311
+    - I93C	 confidence: 59.0805
+    - I3CE	 confidence: 54.7642
+    - 13CF	 confidence: 47.6824
+    - 193C	 confidence: 46.2318
+    - I93CF	 confidence: 45.8334
+    - I9CF	 confidence: 44.8711
+    - I93F	 confidence: 43.576
+Frame: 98
+Total Time to process image: 465.17ms.
+Frame: 99
+Total Time to process image: 467.499ms.
+Frame: 100
+Total Time to process image: 459.918ms.
+Frame: 101
+Total Time to process image: 468.896ms.
+Frame: 102
+Total Time to process image: 458.114ms.
+plate0: 1 results -- Processing Time = 18.3663ms.
+    - P693	 confidence: 75.8635
+Frame: 103
+Total Time to process image: 467.318ms.
+Frame: 104
+Total Time to process image: 438.725ms.
+Frame: 105
+Total Time to process image: 439.122ms.
+Frame: 106
+Total Time to process image: 416.682ms.
+
+splited plates 
+L693,76.7617 L693B,69.8179 693B,68.7113 93BP,78.5229 193BP,72.2727 938P,69.6931 693BP,79.4262 693B,74.4445 93BP,74.2183 693BP,80.3463 693BPL,80.0204 693P,73.1845 693R,76.2797 693RP,73.4857 69RP,71.8549 P075F3H,85.5528 PQ75F3H,81.9827 P075FH,81.2966 93B1,79.9765 93BI,78.4424 9381,70.9928 938P,81.4792 938PI,78.5736 938P1,75.6813 693BP,81.3102 6938P,76.537 693EP,76.4799 693BP,81.1686 693P,78.0315 6938P,75.7203 E93BP,82.1261 93BP,79.1693 E938P,77.2012 693B,83.3058 693E,73.4459 6938,73.444 93BP,81.6815 938P,77.1159 B93BP,74.8509 93BP1,81.0014 93P1,79.571 93BPI1,77.9503 93BPJ,81.3262 938PJ,78.5274 93PJ,77.8623 693BPJ,82.4198 6938PJ,79.2773 693BPIJ,77.4303 93BP,80.1263 938P,76.688 9JBP,71.8835 6938PE,80.8376 938PE,77.4136 693BPE,76.1929 9BP1,82.1776 93BP1,79.9192 98P1,75.523 93E1,78.2712 93EI,76.6975 93B1,76.2199 693BP,78.8321 693B,75.4574 693P,75.4488 93BPI1,79.4058 930PI1,76.3011 93BI1,76.11 938P,79.9906 6938P,75.6279 938E,74.9168 93BP1,77.7651 93BP,77.5597 93B1,76.2382 693B,80.0302 693BP,77.2412 693BE,74.4518 693B,79.6376 693BP,78.5993 693BI,76.2222 693B1,80.5829 693BP1,80.2013 69B1,78.987 693B,80.1629 6938,71.7816 693B0,70.8209 93BP,78.2395 9JBP,75.6922 693P,75.5062 693E1,79.8498 69E1,77.327 69381,76.8584 93P1,76.4512 I93P,71.0474 93BP,69.934 938P,78.2955 938PJ,75.8476 938P1,74.864 6931,78.9934 69381,78.8735 693I,78.6201 693BP,79.8189 693B,79.3042 693P,78.4876 693BP,80.7072 693P,80.6446 693BPI,78.6225 693E,80.7638 693D,79.3456 693B,76.0307 693B,79.9589 693E,79.9116 693BP,77.5746 69311,77.3025 693P11,76.5319 6931,76.4783 938P,77.6479 93BP,73.8281 93LP,73.6619 93BP,77.6889 93EP,75.4055 P93BP,75.3042 I693B11,79.2337 I693BP11,77.7412 693B11,77.2351 1693BPI,85.3675 1693BPI1,82.8203 1693PI,82.2518 693BP,80.9591 693P,78.197 693LP,77.4242 693BP,79.6667 693BPI,77.0274 693BP1,76.4664 669L,77.8044 69JL,75.2786 669U,75.2475 693BP1,80.1154 693BP,77.7932 6938P1,75.7549 693BP1,77.0242 69BP1,75.9891 P693BP1,74.3803 693BP,78.518 693P,78.0348 93BP,76.0785 693BP,80.1339 69JBP,79.1591 69BP,77.7292 P693BP,77.1049 693BP,76.4507 P69BP,76.4248 693BP,77.8003 93BP,76.4709 693BPU,75.6975 93BP,78.9765 693BP,78.2459 93BPU,74.0522 93BP1,78.8936 93BPI,77.0639 93BP,75.5447 93BP,79.4992 93P4,76.797 693P,76.3347 93P1,76.2341 93BP1,75.0399 3BP1,72.9175 93P1,76.4389 93PI,72.1634 93BP,71.5289 63B1,76.8316 3B1X,74.2639 63B1X,73.3122 693B,77.9198 693P,75.0418 693BP,74.2282 693B,75.8931 93BP,75.8464 93B1,75.1517 693PL,77.5348 693P,77.3361 693BPL,77.2247 93B1,78.3898 93B11,74.846 9JB1,74.2824 693B,78.9177 693BP,77.0082 693BU,74.2332 93P1,77.5668 693P,76.5918 6931,74.5908 693BP,80.4409 69BP,75.8874 693P,73.6636 93BP,78.7601 938P,70.3786 B93BP,70.2205 93BP11,80.1838 93BP1,78.756 9BP11,77.1528 693BP,80.9664 693B,80.4019 693P,78.7273 698Z,77.5236 6938,76.0625 693Z,75.748 693BP,79.8683 693B,74.793 69BP,74.4088 693P,76.5479 693BP,75.9549 93BP,74.5035 6931,77.9844 693P1,76.6939 693P,73.9383 93EP,78.5058 93BP,76.2995 B93E,75.2435 B693,76.0969 693H,73.42 6936,72.3551 6931,77.0762 693E1,72.1666 93E1,71.5038 B93B,76.404 693B,76.3885 B936,73.189 6931,77.2193 69J1,67.6972 693I,67.3314 6931,81.557 E931,76.3223 E693,76.1019 6931,74.9051 I931,62.4932 1931,60.7793 6931,74.9146 1693,72.3181 I693,67.3356 1693,74.5455 I693,66.1756 1B93,63.8975 693J,78.734 938J,74.5577 93BJ,71.6699 93CF,75.2087 93CE,69.4418 I3CF,60.5311 P693,75.8635 Time,process 
+Plates 
+('P693BPL', 77.2247, 'partialPlate'), ('P693BPI', 77.0274, 'partialPlate'), ('P693BPJ', 41.2099, 'partialPlate'), ('P693BPE', 38.09645, 'partialPlate'), ('P693BPU', 37.84875, 'partialPlate')

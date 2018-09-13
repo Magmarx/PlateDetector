@@ -1,0 +1,131 @@
+/Users/MiguelPorras/Desktop/VideosPlacas/Videos/MCPlate/plate10.mp4
+plate log 
+Frame: 0
+Total Time to process image: 7.16463ms.
+Frame: 1
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 96.0367ms.
+plate0: 10 results -- Processing Time = 23.8576ms.
+    - P21GHN	 confidence: 82.1762
+    - P216GHN	 confidence: 82.0067
+    - P21HN	 confidence: 81.4902
+    - P216HN	 confidence: 81.3207
+    - P21GMN	 confidence: 77.5478
+    - P216GMN	 confidence: 77.3782
+    - P21MN	 confidence: 76.8618
+    - P216MN	 confidence: 76.6923
+    - P2166HN	 confidence: 76.3073
+    - P21DHN	 confidence: 75.481
+Frame: 2
+Total Time to process image: 84.3699ms.
+plate0: 10 results -- Processing Time = 21.2482ms.
+    - P216GMN	 confidence: 80.0741
+    - P21GMN	 confidence: 79.8102
+    - LP216GMN	 confidence: 77.5968
+    - P216MN	 confidence: 77.5276
+    - LP21GMN	 confidence: 77.3329
+    - P21MN	 confidence: 77.2637
+    - P216GHN	 confidence: 76.2735
+    - P21GHN	 confidence: 76.0096
+    - 1P216GMN	 confidence: 75.8046
+    - 1P21GMN	 confidence: 75.5407
+Frame: 3
+Total Time to process image: 96.8388ms.
+plate0: 10 results -- Processing Time = 21.1295ms.
+    - 21GN	 confidence: 77.6102
+    - 2LGN	 confidence: 76.6622
+    - I21GN	 confidence: 75.9078
+    - 214GN	 confidence: 75.2427
+    - I2LGN	 confidence: 74.9598
+    - 216GN	 confidence: 74.6917
+    - 121GN	 confidence: 74.4156
+    - 2L4GN	 confidence: 74.2948
+    - 2L6GN	 confidence: 73.7437
+    - II21GN	 confidence: 73.6556
+Frame: 4
+Total Time to process image: 75.0262ms.
+plate0: 10 results -- Processing Time = 19.851ms.
+    - 216GHN	 confidence: 80.1688
+    - 216GN	 confidence: 79.7511
+    - 21GHN	 confidence: 77.4896
+    - 21GN	 confidence: 77.0719
+    - 216GHH	 confidence: 76.3393
+    - P216GHN	 confidence: 76.0086
+    - 216GH	 confidence: 75.9216
+    - P216GN	 confidence: 75.5909
+    - 16GHN	 confidence: 75.1221
+    - 16GN	 confidence: 74.7044
+Frame: 5
+Total Time to process image: 99.3475ms.
+plate0: 10 results -- Processing Time = 21.1085ms.
+    - 21GN	 confidence: 78.2472
+    - 21GHN	 confidence: 74.83
+    - 21GH	 confidence: 74.1773
+    - Z1GN	 confidence: 74.0587
+    - 1GHN	 confidence: 73.2087
+    - U21GN	 confidence: 72.7781
+    - 021GN	 confidence: 72.5281
+    - 21GM	 confidence: 71.5763
+    - 21GMN	 confidence: 71.4072
+    - U1GN	 confidence: 71.1567
+Frame: 6
+Total Time to process image: 67.1031ms.
+plate0: 10 results -- Processing Time = 21.3206ms.
+    - P21MN	 confidence: 77.7191
+    - P21GMN	 confidence: 77.4045
+    - P21HN	 confidence: 75.9477
+    - P21M	 confidence: 75.9372
+    - P21GHN	 confidence: 75.6331
+    - P21GM	 confidence: 75.6226
+    - 21MN	 confidence: 75.2627
+    - 21GMN	 confidence: 74.9481
+    - P21H	 confidence: 74.1657
+    - P21GH	 confidence: 73.8511
+Frame: 7
+Total Time to process image: 67.1749ms.
+plate0: 10 results -- Processing Time = 21.848ms.
+    - P21GMN	 confidence: 82.2836
+    - P21GHN	 confidence: 79.9548
+    - 21GMN	 confidence: 79.3661
+    - P216GMN	 confidence: 78.2085
+    - 21GHN	 confidence: 77.0373
+    - P216GHN	 confidence: 75.8796
+    - D21GMN	 confidence: 75.5856
+    - 216GMN	 confidence: 75.2909
+    - PZ1GMN	 confidence: 74.5884
+    - P21GGMN	 confidence: 73.7326
+Frame: 8
+Total Time to process image: 67.1911ms.
+plate0: 10 results -- Processing Time = 22.0429ms.
+    - IP21GM	 confidence: 78.2158
+    - IP2GM	 confidence: 75.6917
+    - IP21GH	 confidence: 74.6918
+    - 1P21GM	 confidence: 74.5568
+    - I21GM	 confidence: 74.4268
+    - IP21G	 confidence: 74.4017
+    - P21GM	 confidence: 73.7113
+    - IP21GM1	 confidence: 73.1364
+    - IP216GM	 confidence: 72.8583
+    - IP2GH	 confidence: 72.1677
+Frame: 9
+Total Time to process image: 56.3321ms.
+Frame: 10
+Total Time to process image: 72.3609ms.
+plate0: 10 results -- Processing Time = 22.4238ms.
+    - P21GHN	 confidence: 81.1834
+    - P21GMN	 confidence: 80.6955
+    - P216GHN	 confidence: 78.9866
+    - P1GHN	 confidence: 78.5017
+    - P216GMN	 confidence: 78.4986
+    - P1GMN	 confidence: 78.0137
+    - P2GHN	 confidence: 77.5264
+    - P2GMN	 confidence: 77.0384
+    - P16GHN	 confidence: 76.3048
+    - P16GMN	 confidence: 75.8169
+Frame: 11
+Total Time to process image: 49.3999ms.
+
+splited plates 
+P21GHN,82.1762 P216GHN,82.0067 P21HN,81.4902 P216GMN,80.0741 P21GMN,79.8102 LP216GMN,77.5968 21GN,77.6102 2LGN,76.6622 I21GN,75.9078 216GHN,80.1688 216GN,79.7511 21GHN,77.4896 21GN,78.2472 21GHN,74.83 21GH,74.1773 P21MN,77.7191 P21GMN,77.4045 P21HN,75.9477 P21GMN,82.2836 P21GHN,79.9548 21GMN,79.3661 IP21GM,78.2158 IP2GM,75.6917 IP21GH,74.6918 P21GHN,81.1834 P21GMN,80.6955 P216GHN,78.9866 
+Plates 
+('P216GHN', 78.9866, 'plate'), ('P216GHN', 40.0844, 'partialPlate'), ('P216GMN', 40.03705, 'plate')

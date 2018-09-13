@@ -1,0 +1,361 @@
+/Users/MiguelPorras/Desktop/VideosPlacas/Videos/MCPlate/plate24.mp4
+plate log 
+Frame: 0
+Total Time to process image: 211.988ms.
+Frame: 1
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 1175.29ms.
+plate0: 10 results -- Processing Time = 89.3298ms.
+    - P932RMI	 confidence: 83.374
+    - P932FRMI	 confidence: 82.8626
+    - P932RM1	 confidence: 82.7914
+    - P932FRM1	 confidence: 82.28
+    - P932RI	 confidence: 81.6756
+    - P932FRI	 confidence: 81.1642
+    - P932R1	 confidence: 81.093
+    - P932FR1	 confidence: 80.5817
+    - P932RUI	 confidence: 79.931
+    - P932FRUI	 confidence: 79.4196
+Frame: 2
+Total Time to process image: 545.313ms.
+plate0: 10 results -- Processing Time = 68.1795ms.
+    - P932FRM	 confidence: 83.2007
+    - P932FRM1	 confidence: 81.9087
+    - P932FRMI	 confidence: 80.6544
+    - P932RM	 confidence: 78.9107
+    - P932FR	 confidence: 78.4217
+    - P932FRU	 confidence: 77.7008
+    - P932RM1	 confidence: 77.6188
+    - P932FRH	 confidence: 77.5292
+    - P932FR1	 confidence: 77.1298
+    - P932FRN	 confidence: 76.92
+Frame: 3
+Total Time to process image: 567.9ms.
+plate0: 10 results -- Processing Time = 66.2276ms.
+    - P32FRM	 confidence: 84.0894
+    - P932FRM	 confidence: 84.0514
+    - P032FRM	 confidence: 80.3292
+    - PO32FRM	 confidence: 78.7677
+    - PD32FRM	 confidence: 78.7303
+    - PQ32FRM	 confidence: 78.724
+    - P32FRN	 confidence: 78.5993
+    - P932FRN	 confidence: 78.5613
+    - P32FR	 confidence: 78.4456
+    - P932FR	 confidence: 78.4077
+Frame: 4
+Total Time to process image: 533.285ms.
+plate0: 10 results -- Processing Time = 55.7597ms.
+    - P932FRM	 confidence: 85.8622
+    - P32FRM	 confidence: 80.4616
+    - P932FRN	 confidence: 78.6846
+    - P932FRH	 confidence: 77.8692
+    - P932FR	 confidence: 77.2263
+    - P932PRM	 confidence: 75.6687
+    - P932FRD	 confidence: 75.1166
+    - P932RM	 confidence: 74.0129
+    - P32FRN	 confidence: 73.284
+    - P32FRH	 confidence: 72.4686
+Frame: 5
+Total Time to process image: 568.156ms.
+plate0: 10 results -- Processing Time = 62.4183ms.
+    - P932RM	 confidence: 83.9703
+    - P932FRM	 confidence: 80.4568
+    - P32RM	 confidence: 78.4118
+    - PD32RM	 confidence: 76.1335
+    - P932RN	 confidence: 75.787
+    - P932R	 confidence: 75.1931
+    - P32FRM	 confidence: 74.8983
+    - P932RH	 confidence: 73.4572
+    - PD32FRM	 confidence: 72.62
+    - P932FRN	 confidence: 72.2735
+Frame: 6
+Total Time to process image: 635.469ms.
+plate0: 10 results -- Processing Time = 81.7333ms.
+    - P932FRM	 confidence: 84.3947
+    - P32FRM	 confidence: 79.0469
+    - P932FRH	 confidence: 76.3836
+    - P932PRM	 confidence: 76.2451
+    - P932FRN	 confidence: 75.6076
+    - P932FR	 confidence: 75.5083
+    - P932RM	 confidence: 75.4802
+    - P92FRM	 confidence: 74.0829
+    - P9S2FRM	 confidence: 73.9046
+    - P932FM	 confidence: 73.0533
+Frame: 7
+Total Time to process image: 640.461ms.
+plate0: 10 results -- Processing Time = 96.0105ms.
+    - P932FRM	 confidence: 84.309
+    - P32FRM	 confidence: 78.3881
+    - P932RM	 confidence: 77.4288
+    - P932FR	 confidence: 76.3778
+    - P932FRN	 confidence: 76.3667
+    - P932FRH	 confidence: 76.3623
+    - P9S2FRM	 confidence: 75.7282
+    - P92FRM	 confidence: 75.6758
+    - P932PRM	 confidence: 75.4072
+    - P932FRD	 confidence: 73.2605
+Frame: 8
+Total Time to process image: 681.124ms.
+plate0: 10 results -- Processing Time = 72.0542ms.
+    - P932FRM	 confidence: 86.098
+    - P932RM	 confidence: 78.3999
+    - P932FRH	 confidence: 77.9917
+    - P932FRN	 confidence: 77.8705
+    - P932FR	 confidence: 77.4945
+    - P32FRM	 confidence: 77.3713
+    - P932PRM	 confidence: 77.1006
+    - P932FRU	 confidence: 76.0921
+    - P932FRW	 confidence: 74.8328
+    - P932RH	 confidence: 70.2936
+Frame: 9
+Total Time to process image: 736.487ms.
+plate0: 10 results -- Processing Time = 79.1913ms.
+    - P932FR	 confidence: 82.3654
+    - P932FRM	 confidence: 81.9803
+    - P932FRH	 confidence: 77.7258
+    - P32FR	 confidence: 76.9428
+    - P932R	 confidence: 76.6601
+    - P32FRM	 confidence: 76.5577
+    - P932RM	 confidence: 76.275
+    - P932FRN	 confidence: 75.0204
+    - P932FRU	 confidence: 72.7844
+    - P932FRD	 confidence: 72.4879
+Frame: 10
+Total Time to process image: 893.971ms.
+plate0: 10 results -- Processing Time = 54.2205ms.
+    - P932FRM	 confidence: 83.077
+    - P932FR	 confidence: 80.6275
+    - P932RM	 confidence: 79.7702
+    - P32FRM	 confidence: 79.3366
+    - P932R	 confidence: 77.3208
+    - P32FR	 confidence: 76.8871
+    - P932PRM	 confidence: 76.778
+    - P32RM	 confidence: 76.0298
+    - P932FRN	 confidence: 75.9807
+    - PD32FRM	 confidence: 75.7457
+Frame: 11
+Total Time to process image: 1136.41ms.
+plate0: 10 results -- Processing Time = 101.923ms.
+    - P932FRM	 confidence: 86.4159
+    - P932FR	 confidence: 86.0402
+    - P932FRM1	 confidence: 83.7593
+    - P932FR1	 confidence: 83.3836
+    - P932FRN	 confidence: 79.6058
+    - P932FRH	 confidence: 78.951
+    - P32FRM	 confidence: 78.8764
+    - P32FR	 confidence: 78.5006
+    - P932FRU	 confidence: 78.027
+    - P932FRD	 confidence: 77.4
+Frame: 12
+Total Time to process image: 1000.04ms.
+plate0: 10 results -- Processing Time = 54.1477ms.
+    - P932RM	 confidence: 83.18
+    - P932FRM	 confidence: 80.5972
+    - P932RH	 confidence: 78.7564
+    - P932FRH	 confidence: 76.1735
+    - P932RN	 confidence: 75.5589
+    - P932R	 confidence: 74.3024
+    - P92RM	 confidence: 73.3004
+    - P932FRN	 confidence: 72.9761
+    - P9S2RM	 confidence: 72.3152
+    - P932FR	 confidence: 71.7196
+Frame: 13
+Total Time to process image: 705.646ms.
+plate0: 10 results -- Processing Time = 54.1513ms.
+    - P932FRM	 confidence: 83.8331
+    - P92FRM	 confidence: 78.4143
+    - P32FRM	 confidence: 77.8381
+    - P932FRH	 confidence: 75.8869
+    - P9S2FRM	 confidence: 75.7007
+    - P932RM	 confidence: 75.436
+    - P932FRN	 confidence: 74.5808
+    - P932FR	 confidence: 74.4665
+    - P932PRM	 confidence: 73.6701
+    - P2FRM	 confidence: 72.4193
+Frame: 14
+Total Time to process image: 744.447ms.
+plate0: 10 results -- Processing Time = 64.8584ms.
+    - P932FRM	 confidence: 83.9943
+    - 932FRM	 confidence: 77.0557
+    - P32FRM	 confidence: 76.924
+    - P932RM	 confidence: 75.9522
+    - P932FRH	 confidence: 74.9519
+    - R932FRM	 confidence: 74.6638
+    - P932FRN	 confidence: 74.5159
+    - P92FRM	 confidence: 74.1037
+    - P932PRM	 confidence: 73.8295
+    - B932FRM	 confidence: 73.6546
+Frame: 15
+Total Time to process image: 766.149ms.
+plate0: 10 results -- Processing Time = 65.8723ms.
+    - P932FRM	 confidence: 83.6984
+    - P932RM	 confidence: 79.4299
+    - P932FRH	 confidence: 79.0732
+    - P932FR	 confidence: 79.0439
+    - P932FRN	 confidence: 77.1617
+    - P32FRM	 confidence: 75.2157
+    - P932FRU	 confidence: 75.1992
+    - P932RH	 confidence: 74.8047
+    - P932R	 confidence: 74.7754
+    - P932FRO	 confidence: 74.4325
+Frame: 16
+Total Time to process image: 724.407ms.
+plate0: 10 results -- Processing Time = 51.806ms.
+    - P932FRM	 confidence: 85.426
+    - P932FR	 confidence: 84.3894
+    - P932FRH	 confidence: 79.1316
+    - P932FRN	 confidence: 78.0519
+    - P932FRD	 confidence: 76.9304
+    - P932FRU	 confidence: 76.9173
+    - P92FRM	 confidence: 76.4929
+    - P9S2FRM	 confidence: 75.6176
+    - P932RM	 confidence: 75.5767
+    - P92FR	 confidence: 75.4562
+Frame: 17
+Total Time to process image: 715.499ms.
+plate0: 10 results -- Processing Time = 64.7692ms.
+    - P932FR	 confidence: 83.0895
+    - P932FRM	 confidence: 80.4295
+    - P32FR	 confidence: 76.9898
+    - P932FRH	 confidence: 76.7489
+    - P32FRM	 confidence: 74.3298
+    - P932FRN	 confidence: 74.0339
+    - P932FRU	 confidence: 73.0669
+    - P932FRD	 confidence: 72.3808
+    - P932FRQ	 confidence: 72.2196
+    - P932FRO	 confidence: 72.2077
+Frame: 18
+Total Time to process image: 991.666ms.
+plate0: 10 results -- Processing Time = 48.56ms.
+    - P932FR	 confidence: 81.9129
+    - P92FR	 confidence: 78.0149
+    - P932FRM	 confidence: 76.0243
+    - P9S2FR	 confidence: 74.4001
+    - P32FR	 confidence: 74.0819
+    - P9B2FR	 confidence: 73.5001
+    - P932FRH	 confidence: 73.3708
+    - P92FRM	 confidence: 72.1264
+    - P932R	 confidence: 70.6101
+    - P93ZFR	 confidence: 70.5134
+Frame: 19
+Total Time to process image: 747.15ms.
+plate0: 10 results -- Processing Time = 48.2363ms.
+    - P932FRM	 confidence: 82.3982
+    - P32FRM	 confidence: 79.6336
+    - P932FM	 confidence: 75.9781
+    - P932FR	 confidence: 73.8294
+    - P32FM	 confidence: 73.2136
+    - P932FGM	 confidence: 72.985
+    - P932FRH	 confidence: 72.8451
+    - P9S2FRM	 confidence: 71.4611
+    - P92FRM	 confidence: 71.1788
+    - P32FR	 confidence: 71.0648
+Frame: 20
+Total Time to process image: 784.665ms.
+plate0: 10 results -- Processing Time = 48.714ms.
+    - P32FRM	 confidence: 82.3818
+    - P932FRM	 confidence: 78.9091
+    - P32FR	 confidence: 76.0646
+    - PD32FRM	 confidence: 74.4359
+    - PQ32FRM	 confidence: 74.2416
+    - P32FRH	 confidence: 73.7972
+    - P32FRN	 confidence: 72.6153
+    - P932FR	 confidence: 72.592
+    - P32FRU	 confidence: 72.5598
+    - P32FRD	 confidence: 72.2124
+Frame: 21
+Total Time to process image: 767.298ms.
+plate0: 10 results -- Processing Time = 48.8891ms.
+    - P932FRD	 confidence: 81.7451
+    - P932FR1	 confidence: 81.3569
+    - P932FRD1	 confidence: 80.3076
+    - P932FR11	 confidence: 79.9194
+    - P932FR	 confidence: 79.4485
+    - P932FRO	 confidence: 79.1654
+    - P932FRB	 confidence: 78.6038
+    - P932FRU	 confidence: 78.5995
+    - P932FRI	 confidence: 78.5871
+    - P932FRQ	 confidence: 78.5329
+Frame: 22
+Total Time to process image: 935.123ms.
+plate0: 10 results -- Processing Time = 47.6888ms.
+    - P932FR	 confidence: 80.9499
+    - P932FRM	 confidence: 77.8954
+    - P32FR	 confidence: 74.2285
+    - P932F	 confidence: 73.7969
+    - P932R	 confidence: 71.6595
+    - P932FRH	 confidence: 71.4318
+    - P9S2FR	 confidence: 71.3547
+    - P32FRM	 confidence: 71.174
+    - P932PR	 confidence: 71.0697
+    - P93ZFR	 confidence: 70.8558
+Frame: 23
+Total Time to process image: 726.266ms.
+plate0: 10 results -- Processing Time = 52.7023ms.
+    - P932FR	 confidence: 79.1393
+    - P92FR	 confidence: 74.5444
+    - P932R	 confidence: 73.9844
+    - 932FR	 confidence: 71.8446
+    - P9S2FR	 confidence: 71.3033
+    - P32FR	 confidence: 70.8015
+    - 9932FR	 confidence: 70.287
+    - P932TR	 confidence: 70.0614
+    - P932PR	 confidence: 69.8659
+    - P92R	 confidence: 69.3895
+Frame: 24
+Total Time to process image: 810.509ms.
+plate0: 10 results -- Processing Time = 53.8141ms.
+    - P932FR	 confidence: 81.679
+    - P932FRM	 confidence: 75.2273
+    - P932FRH	 confidence: 74.1198
+    - P92FR	 confidence: 73.6294
+    - P32FR	 confidence: 73.3459
+    - P932F	 confidence: 73.2373
+    - P9S2FR	 confidence: 72.8438
+    - PD32FR	 confidence: 72.4135
+    - P932R	 confidence: 70.9723
+    - P932FRU	 confidence: 70.9156
+Frame: 25
+Total Time to process image: 771.779ms.
+plate0: 10 results -- Processing Time = 50.9742ms.
+    - P932FR	 confidence: 79.7851
+    - P932F	 confidence: 76.7232
+    - P92FR	 confidence: 75.4461
+    - P92F	 confidence: 72.3843
+    - 932FR	 confidence: 72.1802
+    - P932R	 confidence: 72.1764
+    - P9S2FR	 confidence: 71.7721
+    - P932FB	 confidence: 71.2438
+    - P932F8	 confidence: 71.0908
+    - D932FR	 confidence: 70.0496
+Frame: 26
+Total Time to process image: 782.662ms.
+plate0: 10 results -- Processing Time = 57.617ms.
+    - P32R	 confidence: 77.5483
+    - P932R	 confidence: 76.1995
+    - P32R1	 confidence: 75.7951
+    - P932R1	 confidence: 74.4463
+    - P32FR	 confidence: 72.8552
+    - P932	 confidence: 72.5548
+    - P321	 confidence: 72.1505
+    - P32RM	 confidence: 71.5616
+    - P932FR	 confidence: 71.5063
+    - P32FR1	 confidence: 71.102
+Frame: 27
+Total Time to process image: 766.684ms.
+plate0: 10 results -- Processing Time = 53.4888ms.
+    - P32FR	 confidence: 83.6179
+    - P32FR1	 confidence: 82.3676
+    - P932FR	 confidence: 78.9271
+    - P932FR1	 confidence: 77.6768
+    - PS2FR	 confidence: 70.4667
+    - P2FR	 confidence: 69.9223
+    - PS2FR1	 confidence: 69.2164
+    - P2FR1	 confidence: 68.672
+    - P9S2FR	 confidence: 65.7759
+    - P92FR	 confidence: 65.2315
+
+splited plates 
+P932RMI,83.374 P932FRMI,82.8626 P932RM1,82.7914 P932FRM,83.2007 P932FRM1,81.9087 P932FRMI,80.6544 P32FRM,84.0894 P932FRM,84.0514 P032FRM,80.3292 P932FRM,85.8622 P32FRM,80.4616 P932FRN,78.6846 P932RM,83.9703 P932FRM,80.4568 P32RM,78.4118 P932FRM,84.3947 P32FRM,79.0469 P932FRH,76.3836 P932FRM,84.309 P32FRM,78.3881 P932RM,77.4288 P932FRM,86.098 P932RM,78.3999 P932FRH,77.9917 P932FR,82.3654 P932FRM,81.9803 P932FRH,77.7258 P932FRM,83.077 P932FR,80.6275 P932RM,79.7702 P932FRM,86.4159 P932FR,86.0402 P932FRM1,83.7593 P932RM,83.18 P932FRM,80.5972 P932RH,78.7564 P932FRM,83.8331 P92FRM,78.4143 P32FRM,77.8381 P932FRM,83.9943 932FRM,77.0557 P32FRM,76.924 P932FRM,83.6984 P932RM,79.4299 P932FRH,79.0732 P932FRM,85.426 P932FR,84.3894 P932FRH,79.1316 P932FR,83.0895 P932FRM,80.4295 P32FR,76.9898 P932FR,81.9129 P92FR,78.0149 P932FRM,76.0243 P932FRM,82.3982 P32FRM,79.6336 P932FM,75.9781 P32FRM,82.3818 P932FRM,78.9091 P32FR,76.0646 P932FRD,81.7451 P932FR1,81.3569 P932FRD1,80.3076 P932FR,80.9499 P932FRM,77.8954 P32FR,74.2285 P932FR,79.1393 P92FR,74.5444 P932R,73.9844 P932FR,81.679 P932FRM,75.2273 P932FRH,74.1198 P932FR,79.7851 P932F,76.7232 P92FR,75.4461 P32R,77.5483 P932R,76.1995 P32R1,75.7951 P32FR,83.6179 P32FR1,82.3676 P932FR,78.9271 
+Plates 
+('P932FRM', 75.2273, 'plate'), ('P932FRH', 74.1198, 'plate'), ('P932RMI', 41.687, 'plate'), ('P932FRD', 40.87255, 'plate'), ('P032FRM', 40.1646, 'plate'), ('P932FRN', 39.3423, 'plate'), ('P932FRM', 38.52785, 'partialPlate')
