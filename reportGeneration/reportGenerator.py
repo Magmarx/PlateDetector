@@ -1,3 +1,5 @@
+#Author Mporras
+#Date 13/sep/2018
 # import sys 
 from os import listdir
 from os.path import isfile, join

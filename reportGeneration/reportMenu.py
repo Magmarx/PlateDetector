@@ -1,3 +1,5 @@
+#Author Mporras
+#Date 13/sep/2018
 ''' 
 This is the file that will manage all the variations on the report generating methods
 '''

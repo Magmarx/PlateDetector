@@ -1,3 +1,5 @@
+#Author Mporras
+#Date 13/sep/2018
 ''' 
 This file is in charge to manage all the file operations to call the respective process
 '''

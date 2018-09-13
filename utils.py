@@ -1,3 +1,5 @@
+#Author Mporras
+#Date 13/sep/2018
 from functools import reduce
 
 
