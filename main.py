@@ -26,6 +26,8 @@ repDate = ''
 repTime = ''
 # Arg 9 --dev --prod for generating different reports
 dev = '--dev'
+# Arg 10 channel
+channel = 0
 
 # Example python main.py --file filepath --opcion --noDel jsonData --report date time
 
@@ -44,11 +46,12 @@ if len(sys.argv) > 8:
     repTime = sys.argv[8]
 if len(sys.argv) > 9:
     dev = sys.argv[9]
-
+if len(sys.argv) > 10:
+    channel = sys.argv[10]
 
 if executionMethod == "--folder":
-    print(readFolder(mypath, uselog, delete, jsonData, reportFlag, repDate, repTime, dev))
+    print(readFolder(mypath, uselog, delete, jsonData, reportFlag, repDate, repTime, dev, channel))
 elif executionMethod == "--file":    
-    readFile(mypath, uselog, delete, jsonData, reportFlag, repDate, repTime, dev)    
+    readFile(mypath, uselog, delete, jsonData, reportFlag, repDate, repTime, dev, channel)    
 else: 
     print("Invalid arg")

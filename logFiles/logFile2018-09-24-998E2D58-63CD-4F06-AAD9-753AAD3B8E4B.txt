@@ -1,0 +1,419 @@
+/Users/MiguelPorras/Desktop/CarData/2018/08/31/Morning/video/car/998E2D58-63CD-4F06-AAD9-753AAD3B8E4B.mp4
+plate log 
+Frame: 0
+Total Time to process image: 45.4808ms.
+Frame: 1
+Total Time to process image: 19.6685ms.
+Frame: 2
+Total Time to process image: 18.8737ms.
+Frame: 3
+Total Time to process image: 27.5307ms.
+Frame: 4
+Total Time to process image: 20.1705ms.
+Frame: 5
+Total Time to process image: 21.2429ms.
+Frame: 6
+Total Time to process image: 20.68ms.
+Frame: 7
+Total Time to process image: 19.9289ms.
+Frame: 8
+Total Time to process image: 22.1362ms.
+Frame: 9
+Total Time to process image: 24.0614ms.
+Frame: 10
+Total Time to process image: 25.0228ms.
+Frame: 11
+Total Time to process image: 20.7912ms.
+Frame: 12
+Total Time to process image: 24.4269ms.
+Frame: 13
+Total Time to process image: 24.6598ms.
+Frame: 14
+Total Time to process image: 21.7054ms.
+Frame: 15
+Total Time to process image: 26.7749ms.
+Frame: 16
+Total Time to process image: 30.5757ms.
+Frame: 17
+Total Time to process image: 30.2371ms.
+Frame: 18
+Total Time to process image: 30.2151ms.
+Frame: 19
+Total Time to process image: 26.281ms.
+Frame: 20
+Total Time to process image: 26.3988ms.
+Frame: 21
+Total Time to process image: 28.6948ms.
+Frame: 22
+Total Time to process image: 26.6828ms.
+Frame: 23
+Total Time to process image: 26.184ms.
+Frame: 24
+Total Time to process image: 26.2652ms.
+Frame: 25
+Total Time to process image: 26.4456ms.
+Frame: 26
+Total Time to process image: 26.1194ms.
+Frame: 27
+Total Time to process image: 28.5552ms.
+Frame: 28
+Total Time to process image: 27.9637ms.
+Frame: 29
+Total Time to process image: 26.3973ms.
+Frame: 30
+Total Time to process image: 29.9514ms.
+Frame: 31
+Total Time to process image: 31.4363ms.
+Frame: 32
+Total Time to process image: 30.1928ms.
+Frame: 33
+Total Time to process image: 29.9006ms.
+Frame: 34
+Total Time to process image: 31.5019ms.
+Frame: 35
+Total Time to process image: 38.0225ms.
+Frame: 36
+Total Time to process image: 35.1932ms.
+Frame: 37
+Total Time to process image: 28.631ms.
+Frame: 38
+Total Time to process image: 29.537ms.
+Frame: 39
+Total Time to process image: 33.4711ms.
+Frame: 40
+Total Time to process image: 31.2566ms.
+Frame: 41
+Total Time to process image: 32.1011ms.
+Frame: 42
+Total Time to process image: 33.5855ms.
+Frame: 43
+Total Time to process image: 32.3556ms.
+Frame: 44
+[ INFO:0] Initialize OpenCL runtime...
+Total Time to process image: 106.71ms.
+Frame: 45
+Total Time to process image: 151.25ms.
+Frame: 46
+Total Time to process image: 109.556ms.
+plate0: 10 results -- Processing Time = 26.7185ms.
+    - M089	 confidence: 80.884
+    - B089	 confidence: 78.8371
+    - W089	 confidence: 77.0722
+    - 3089	 confidence: 77.0535
+    - M088	 confidence: 76.7614
+    - 0089	 confidence: 76.7381
+    - H089	 confidence: 75.8555
+    - BM08	 confidence: 75.5408
+    - O089	 confidence: 75.1895
+    - B088	 confidence: 74.7144
+Frame: 47
+Total Time to process image: 81.9133ms.
+Frame: 48
+Total Time to process image: 73.3968ms.
+Frame: 49
+Total Time to process image: 78.7052ms.
+Frame: 50
+Total Time to process image: 65.5489ms.
+Frame: 51
+Total Time to process image: 72.3263ms.
+plate0: 10 results -- Processing Time = 21.0944ms.
+    - 018C	 confidence: 82.3824
+    - 0Q8C	 confidence: 74.0951
+    - 0D8C	 confidence: 72.9016
+    - 008C	 confidence: 72.4035
+    - 0O8C	 confidence: 72.2385
+    - O18C	 confidence: 70.3713
+    - Q18C	 confidence: 69.8332
+    - 018E	 confidence: 66.7168
+    - G18C	 confidence: 63.604
+    - OQ8C	 confidence: 62.084
+Frame: 52
+Total Time to process image: 99.0196ms.
+plate0: 10 results -- Processing Time = 19.2862ms.
+    - 018H	 confidence: 81.656
+    - 018N	 confidence: 79.964
+    - B018	 confidence: 79.9283
+    - F018	 confidence: 75.9367
+    - 8018	 confidence: 75.8969
+    - O018	 confidence: 75.3352
+    - G018	 confidence: 74.7129
+    - B018H	 confidence: 74.292
+    - B018N	 confidence: 72.6
+    - F018H	 confidence: 70.3004
+Frame: 53
+Total Time to process image: 113.047ms.
+plate0: 10 results -- Processing Time = 22.8229ms.
+    - 08201	 confidence: 86.7064
+    - 0820T	 confidence: 82.871
+    - 0820	 confidence: 81.7407
+    - 0801	 confidence: 75.8226
+    - 082O1	 confidence: 75.6033
+    - O8201	 confidence: 75.5644
+    - Q8201	 confidence: 74.2755
+    - 082Q1	 confidence: 74.1998
+    - 080T	 confidence: 71.9873
+    - 082OT	 confidence: 71.7679
+Frame: 54
+Total Time to process image: 91.905ms.
+plate0: 10 results -- Processing Time = 21.4887ms.
+    - 1808	 confidence: 84.7002
+    - Q808	 confidence: 77.8994
+    - T808	 confidence: 77.8856
+    - 18O8	 confidence: 76.5522
+    - 0808	 confidence: 76.5004
+    - O808	 confidence: 76.1221
+    - 18Q8	 confidence: 72.9871
+    - 18G8	 confidence: 69.9069
+    - Q8O8	 confidence: 69.7514
+    - T8O8	 confidence: 69.7376
+Frame: 55
+Total Time to process image: 112.655ms.
+plate0: 7 results -- Processing Time = 19.9632ms.
+    - 8018	 confidence: 90.6567
+    - 8Q18	 confidence: 74.8219
+    - 8O18	 confidence: 74.8214
+    - 8G18	 confidence: 68.9994
+    - 8D18	 confidence: 65.4889
+    - 8U18	 confidence: 64.7975
+    - 8B18	 confidence: 63.7758
+Frame: 56
+Total Time to process image: 82.1797ms.
+Frame: 57
+Total Time to process image: 94.5414ms.
+Frame: 58
+Total Time to process image: 117.25ms.
+plate0: 10 results -- Processing Time = 18.6662ms.
+    - 1801	 confidence: 84.6803
+    - 180Q	 confidence: 75.9879
+    - 18O1	 confidence: 72.2648
+    - 18Q1	 confidence: 71.4416
+    - I801	 confidence: 69.729
+    - 18U1	 confidence: 63.982
+    - 18OQ	 confidence: 63.5725
+    - 18G1	 confidence: 63.0941
+    - 18QQ	 confidence: 62.7493
+    - I80Q	 confidence: 61.0367
+Frame: 59
+Total Time to process image: 111.816ms.
+Frame: 60
+Total Time to process image: 161.006ms.
+plate0: 10 results -- Processing Time = 28.1332ms.
+    - 080E	 confidence: 82.2868
+    - 0820E	 confidence: 79.4994
+    - 0820	 confidence: 78.8413
+    - 082E	 confidence: 76.3092
+    - 080I	 confidence: 76.052
+    - 08OE	 confidence: 75.5837
+    - 08QE	 confidence: 75.5743
+    - 080K	 confidence: 75.4127
+    - 080B	 confidence: 75.0516
+    - 080C	 confidence: 74.7903
+Frame: 61
+Total Time to process image: 143.211ms.
+Frame: 62
+Total Time to process image: 158.645ms.
+plate0: 10 results -- Processing Time = 20.0071ms.
+    - 108E	 confidence: 84.0473
+    - 3108E	 confidence: 81.8891
+    - 8108E	 confidence: 81.8877
+    - 38108E	 confidence: 79.7294
+    - 9108E	 confidence: 75.9597
+    - S108E	 confidence: 75.4965
+    - 39108E	 confidence: 73.8015
+    - 3S108E	 confidence: 73.3382
+    - 1O8E	 confidence: 70.1154
+    - 1Q8E	 confidence: 69.3708
+plate1: 10 results -- Processing Time = 25.7186ms.
+    - 0806	 confidence: 83.2975
+    - 01806	 confidence: 81.3482
+    - 00806	 confidence: 76.9548
+    - 0Q806	 confidence: 75.8609
+    - O806	 confidence: 75.5348
+    - 0O806	 confidence: 75.3764
+    - 0808	 confidence: 75.3646
+    - 0D806	 confidence: 75.1456
+    - Q806	 confidence: 74.408
+    - O1806	 confidence: 73.5855
+Frame: 63
+Total Time to process image: 139.792ms.
+plate0: 10 results -- Processing Time = 21.5115ms.
+    - 808E	 confidence: 83.4527
+    - 8018E	 confidence: 82.3758
+    - 8018	 confidence: 79.5467
+    - 808B	 confidence: 79.1402
+    - 808C	 confidence: 78.6647
+    - 8018B	 confidence: 78.0633
+    - 8018C	 confidence: 77.5879
+    - 80Q8E	 confidence: 77.0097
+    - 80T8E	 confidence: 76.7218
+    - 80D8E	 confidence: 75.9589
+Frame: 64
+Total Time to process image: 143.235ms.
+Frame: 65
+Total Time to process image: 153.685ms.
+plate0: 10 results -- Processing Time = 20.6045ms.
+    - 1808	 confidence: 83.1369
+    - 18018	 confidence: 76.6479
+    - 8018	 confidence: 75.2977
+    - 18O8	 confidence: 72.602
+    - 18Q8	 confidence: 71.973
+    - 180Q8	 confidence: 70.4493
+    - 18D8	 confidence: 69.6166
+    - 18008	 confidence: 69.4966
+    - 80Q8	 confidence: 69.0991
+    - 180O8	 confidence: 69.0023
+Frame: 66
+Total Time to process image: 174.669ms.
+plate0: 10 results -- Processing Time = 21.0273ms.
+    - 1D08	 confidence: 81.3585
+    - 1008	 confidence: 79.9804
+    - 1O08	 confidence: 77.5397
+    - 1B08	 confidence: 76.795
+    - 1U08	 confidence: 76.1556
+    - 1Q08	 confidence: 76.0158
+    - QD08	 confidence: 74.974
+    - Q008	 confidence: 73.5959
+    - ID08	 confidence: 73.3853
+    - 0D08	 confidence: 73.2364
+Frame: 67
+Total Time to process image: 168.745ms.
+plate0: 10 results -- Processing Time = 21.8832ms.
+    - 08B1	 confidence: 76.7628
+    - 0881	 confidence: 73.5424
+    - 08G1	 confidence: 73.2829
+    - 08O1	 confidence: 72.8259
+    - 0801	 confidence: 72.8235
+    - 08B0	 confidence: 70.3729
+    - 08BT	 confidence: 69.3708
+    - 08Q1	 confidence: 68.5865
+    - 8B01	 confidence: 68.4318
+    - 08BQ	 confidence: 68.3439
+Frame: 68
+Total Time to process image: 196.114ms.
+plate0: 10 results -- Processing Time = 21.2796ms.
+    - 1108	 confidence: 82.7132
+    - Q108	 confidence: 75.9593
+    - T108	 confidence: 75.0938
+    - 0108	 confidence: 73.9204
+    - D108	 confidence: 73.8022
+    - O108	 confidence: 73.528
+    - U108	 confidence: 73.2274
+    - G108	 confidence: 72.9744
+    - 1I08	 confidence: 71.113
+    - 11O8	 confidence: 65.5514
+plate1: 4 results -- Processing Time = 19.0553ms.
+    - 8B01	 confidence: 82.7178
+    - 8F01	 confidence: 79.8283
+    - 8801	 confidence: 79.1082
+    - 8G01	 confidence: 78.2699
+Frame: 69
+Total Time to process image: 185.936ms.
+plate0: 10 results -- Processing Time = 23.3274ms.
+    - 8B08	 confidence: 79.5245
+    - D808	 confidence: 78.8919
+    - 8808	 confidence: 76.9076
+    - 8C08	 confidence: 76.5443
+    - 8G08	 confidence: 76.534
+    - 8F08	 confidence: 76.2414
+    - 8O08	 confidence: 76.1122
+    - B808	 confidence: 75.8389
+    - 9808	 confidence: 75.4862
+    - Q808	 confidence: 75.093
+Frame: 70
+Total Time to process image: 287.772ms.
+plate0: 10 results -- Processing Time = 92.3027ms.
+    - 8B05	 confidence: 81.2885
+    - 8B0B5	 confidence: 79.9957
+    - 8B05S	 confidence: 77.8978
+    - 80B5	 confidence: 77.1352
+    - 8805	 confidence: 76.7819
+    - 8B0B5S	 confidence: 76.605
+    - 8B095	 confidence: 76.4727
+    - 8B085	 confidence: 75.7024
+    - 880B5	 confidence: 75.4891
+    - 8B09B5	 confidence: 75.1799
+plate1: 2 results -- Processing Time = 15.2657ms.
+    - P3FB	 confidence: 76.2803
+    - P3F8	 confidence: 65.3895
+Frame: 71
+Total Time to process image: 201.42ms.
+plate0: 10 results -- Processing Time = 16.3507ms.
+    - P39F	 confidence: 74.1512
+    - P3FB	 confidence: 70.6856
+    - P3F8	 confidence: 70.6185
+    - PS9F	 confidence: 69.1218
+    - P9FB	 confidence: 65.9429
+    - P9F8	 confidence: 65.8758
+    - PSFB	 confidence: 65.6562
+    - PSF8	 confidence: 65.5891
+    - P39B	 confidence: 64.9755
+    - P398	 confidence: 64.9084
+plate1: 10 results -- Processing Time = 22.1893ms.
+    - 3080	 confidence: 77.9718
+    - S080	 confidence: 76.3167
+    - 308Q	 confidence: 75.6849
+    - S08Q	 confidence: 74.0299
+    - 308O	 confidence: 71.6852
+    - 3Q80	 confidence: 70.086
+    - S08O	 confidence: 70.0301
+    - 3O80	 confidence: 69.5288
+    - SQ80	 confidence: 68.4309
+    - 380L	 confidence: 68.271
+Frame: 72
+Total Time to process image: 184.553ms.
+plate0: 10 results -- Processing Time = 16.397ms.
+    - P3FB	 confidence: 77.6725
+    - P39F	 confidence: 76.8797
+    - P3F8	 confidence: 71.4579
+    - PSFB	 confidence: 67.9527
+    - PS9F	 confidence: 67.1599
+    - P39B	 confidence: 66.6968
+    - P39FB	 confidence: 63.4724
+    - PSF8	 confidence: 61.7381
+    - P398	 confidence: 60.4821
+    - P39F8	 confidence: 57.2578
+Frame: 73
+Total Time to process image: 300.91ms.
+plate0: 10 results -- Processing Time = 35.2197ms.
+    - 08B09	 confidence: 84.6652
+    - 08B0	 confidence: 83.6492
+    - 0809	 confidence: 79.3216
+    - 06B09	 confidence: 78.0544
+    - 08809	 confidence: 77.7156
+    - 0SB09	 confidence: 77.4939
+    - 06B0	 confidence: 77.0384
+    - 0880	 confidence: 76.6996
+    - 0SB0	 confidence: 76.4779
+    - 08B0S	 confidence: 75.1468
+plate1: 10 results -- Processing Time = 16.1492ms.
+    - P39F	 confidence: 77.4307
+    - P3F8	 confidence: 70.1882
+    - P398	 confidence: 66.9249
+    - P39F8	 confidence: 64.8666
+    - P3FB	 confidence: 63.318
+    - P39B	 confidence: 60.0547
+    - PS9F	 confidence: 59.5595
+    - P39FB	 confidence: 57.9963
+    - PSF8	 confidence: 52.317
+    - PS98	 confidence: 49.0537
+Frame: 74
+Total Time to process image: 221.052ms.
+plate0: 10 results -- Processing Time = 16.7562ms.
+    - P39F	 confidence: 77.5741
+    - P3FB	 confidence: 73.1685
+    - P3F8	 confidence: 72.1733
+    - P39FB	 confidence: 62.8039
+    - P39F8	 confidence: 61.8087
+    - PS9F	 confidence: 61.4195
+    - PSFB	 confidence: 57.014
+    - PSF8	 confidence: 56.0188
+    - P39B	 confidence: 52.8669
+    - P398	 confidence: 51.8718
+
+splited plates 
+Time,process Time,process M089,80.884 B089,78.8371 W089,77.0722 018C,82.3824 0Q8C,74.0951 0D8C,72.9016 018H,81.656 018N,79.964 B018,79.9283 08201,86.7064 0820T,82.871 0820,81.7407 1808,84.7002 Q808,77.8994 T808,77.8856 8018,90.6567 8Q18,74.8219 8O18,74.8214 1801,84.6803 180Q,75.9879 18O1,72.2648 080E,82.2868 0820E,79.4994 0820,78.8413 108E,84.0473 3108E,81.8891 8108E,81.8877 0806,83.2975 01806,81.3482 00806,76.9548 808E,83.4527 8018E,82.3758 8018,79.5467 1808,83.1369 18018,76.6479 8018,75.2977 1D08,81.3585 1008,79.9804 1O08,77.5397 08B1,76.7628 0881,73.5424 08G1,73.2829 1108,82.7132 Q108,75.9593 T108,75.0938 8B08,79.5245 D808,78.8919 8808,76.9076 8B05,81.2885 8B0B5,79.9957 8B05S,77.8978 P39F,74.1512 P3FB,70.6856 P3F8,70.6185 3080,77.9718 S080,76.3167 308Q,75.6849 P3FB,77.6725 P39F,76.8797 P3F8,71.4579 08B09,84.6652 08B0,83.6492 0809,79.3216 P39F,77.4307 P3F8,70.1882 P398,66.9249 P39F,77.5741 P3FB,73.1685 P3F8,72.1733 
+Plates 
+
+Final time 
+6614 ms
+6.614 s

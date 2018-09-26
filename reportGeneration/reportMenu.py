@@ -5,7 +5,7 @@ This is the file that will manage all the variations on the report generating me
 '''
 
 import sys
-from reportGenerator import readFolder, readFile
+from reportGenerator import readFolder, readFile, readMultiplePaths
 
 
 # python reportGenerator.py --folder --reportType  --dev/prod path 
@@ -18,6 +18,8 @@ reportType = ''
 isDev = '--prod'
 # Arg 4 is the path of the data we will create a report of
 path = ''
+# flag that will activate just if its the general report
+generalReport = False
 
 if len(sys.argv) > 1:
     executionMethod = sys.argv[1]
@@ -37,12 +39,18 @@ elif reportType == "--Afternoon" :
 elif reportType == "--Night":
     path += "/Night/car/"
 else:
+    print("Pending for dev...")
+    # generalReport = True
     ### pending for development
-    generateGeneralReport(cars, plates)
+    # generateGeneralReport(cars, plates)
 
-if executionMethod == "--folder":
-    readFolder(executionMethod, reportType, isDev, path)
-elif executionMethod == "--file":    
-    readFile(executionMethod, reportType, isDev, path)    
-else: 
-    print("Invalid arg")
+if not generalReport:
+    if executionMethod == "--folder":
+        readFolder(executionMethod, reportType, isDev, path)
+    elif executionMethod == "--file":    
+        readFile(executionMethod, reportType, isDev, path)    
+    else: 
+        print("Invalid arg")
+else:
+    paths = [path + "/Early_Morning/car/", path + "/Morning/car/", path + "/Afternoon/car/", path + "/Night/car/"]
+    readMultiplePaths(paths, isDev)

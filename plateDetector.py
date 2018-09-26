@@ -22,12 +22,12 @@ This method recieves the path of the folder where the files are and if it will u
 the log will enter with the value noLog if no log will be displayed or --log if a log 
 will be displayed
 '''
-def readFolder(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
+def readFolder(path, log, delete, jsonData, reportFlag, repDate, repTime, dev, channel):
     onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
     results = []
     for fileName in onlyfiles:
         print("Analyzing " + fileName)
-        filePlates = readFile(path + fileName, log, delete, jsonData, reportFlag, repDate, repTime, dev)
+        filePlates = readFile(path + fileName, log, delete, jsonData, reportFlag, repDate, repTime, dev, channel)
         if log == "--log":
             print(filePlates)
             print("\n")
@@ -39,7 +39,7 @@ def readFolder(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
 This method recieves the path of the file calls the functions to analyze the file and find
 the plate
 '''
-def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
+def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev, channel):
     initialMillis = int(round(time.time() * 1000))    
 
         # This configuration will create a log with all the process of the plate detection
@@ -78,6 +78,9 @@ def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
         file.write("\n")
         file.write(str(procesTimeMillis / 1000) + " s")
         file.close() 
+        # here we create the report file to leave for further analysis
+        createReportFile(splitedPlates, platesPairs, licencePlates, path, reportFlag, repDate, repTime, dev, jsonData, channel)
+
         # this configuration will call a rest to create a transaction and send it to M5
     elif log == "--rest":         
         plateLog = readVideo(path)
@@ -87,6 +90,8 @@ def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
         licencePlates.sort(key=sortSecond, reverse=True)    
         if len(licencePlates) > 0 :
             callRest(licencePlates[:3], jsonData, path)    
+        # here we create the report file to leave for further analysis
+        createReportFile(splitedPlates, platesPairs, licencePlates, path, reportFlag, repDate, repTime, dev, jsonData, channel)
     else:
         plateLog = readVideo(path)
         splitedPlates = splitPlatesResults(plateLog)
@@ -94,7 +99,7 @@ def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
         licencePlates = compressPlates(platesPairs[0], platesPairs[1])
         licencePlates.sort(key=sortSecond, reverse=True)    
         # here we create the report file to leave for further analysis
-        createReportFile(splitedPlates, platesPairs, licencePlates, path, reportFlag, repDate, repTime, dev)
+        createReportFile(splitedPlates, platesPairs, licencePlates, path, reportFlag, repDate, repTime, dev, jsonData, channel)
         endMillis = int(round(time.time() * 1000))    
         procesTimeMillis = endMillis - initialMillis
         print("Final time")
@@ -112,7 +117,7 @@ def readFile(path, log, delete, jsonData, reportFlag, repDate, repTime, dev):
 '''
 This method will write the file report for analysis
 '''
-def createReportFile(splitedPlates, platesPair, licencePlates, path, report, date, time, dev):    
+def createReportFile(splitedPlates, platesPair, licencePlates, path, report, date, time, dev, params, channel):    
     
     splitPath = path.split("/")
     if len(splitPath) < 2:
@@ -123,12 +128,6 @@ def createReportFile(splitedPlates, platesPair, licencePlates, path, report, dat
     dirNameFile = ''
     data = ''    
 
-    # {
-    #                 # code
-    #                 'key': 2,
-    #                 'value': params[8]
-    #             },
-
     if report == '--report':    
         isCar = checkCar(platesPair)     
         date = date.split("/")
@@ -138,32 +137,32 @@ def createReportFile(splitedPlates, platesPair, licencePlates, path, report, dat
         if not(isCar) and (dev == "--dev"):
             intTime = int(time)            
             if intTime < 5 and intTime > 0:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Early_Morning/notCar/"                
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Early_Morning/notCar/"                
                 data += 'Not car\n' + dirName + fileName + "\n" + fileName                
             if intTime < 12 and intTime > 5:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Morning/notCar/"
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Morning/notCar/"
                 data += 'Not car\n' + dirName + fileName + "\n" + fileName
             if intTime < 18 and intTime > 12:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Afternoon/notCar/"
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Afternoon/notCar/"
                 data += 'Not car\n' + dirName + fileName + "\n" + fileName
             if intTime <= 23 and intTime > 18:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Night/notCar/"
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Night/notCar/"
                 data += 'Not car\n' + dirName + fileName + "\n" + fileName
 
         elif isCar:
             intTime = int(time)  
             print(licencePlates)          
-            if intTime < 5 and intTime > 0:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Early_Morning/car/"
+            if intTime <= 5 and intTime > 0:
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Early_Morning/car/"
                 data += 'Car\n' + dirName + fileName + "\n" + fileName + "\n"                
-            if intTime < 12 and intTime > 5:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Morning/car/"
+            if intTime <= 12 and intTime > 5:
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Morning/car/"
                 data += 'Car\n' + dirName + fileName + "\n" + fileName + "\n"
-            if intTime < 18 and intTime > 12:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Afternoon/car/"
+            if intTime <= 18 and intTime > 12:
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Afternoon/car/"
                 data += 'Car\n' + dirName + fileName + "\n" + fileName + "\n"
             if intTime <= 23 and intTime > 18:
-                dirName = "./" + year + "/" + month + "/" + day + "/" + "Night/car/"
+                dirName = "./" + params[8] + "/" + channel + "/" + year + "/" + month + "/" + day + "/" + "Night/car/"
                 data += 'Car\n' + dirName + fileName + "\n" + fileName + "\n"
             i = 0
             for plate in licencePlates:                
@@ -172,7 +171,7 @@ def createReportFile(splitedPlates, platesPair, licencePlates, path, report, dat
                 else:
                     data += fileName + " , " + plate[0] + " , " + str(plate[1]) + " , " + plate[2] +  " , Incorrect" + " , " + path + "\n"
                 i += 1                                
-                    
+                            
         if not os.path.exists(dirName): 
             os.makedirs(dirName)
             print("Directory " , dirName ,  " Created ")
