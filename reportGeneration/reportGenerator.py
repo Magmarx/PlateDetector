@@ -3,22 +3,24 @@
 
 import ast
 import arrow
+import os
 from os import listdir
 from os.path import isfile, join
 from openpyxl import Workbook
 
 def readFolder(executionMethod, reportType, isDev, path):
-
+    path += "car/"
     onlyfiles = [f for f in listdir(path) if isfile(join(path, f))]
     filePlates = []
     cars = []    
     titles = ["Video", "Placa", "Porcentaje", "Tipo de placa", "Correcta/Incorrecta", "Path", "Valor correcto placa", "Valor placa no encontrada"]
-    separators = ["-------------", "-------------", "-------------", "-------------", "-------------", "-------------"]
+    separators = ["-------------", "-------------", "-------------", "-------------", "-------------", "-------------"]    
     for fileName in onlyfiles:                
         readFileResult = readFile(executionMethod, reportType, isDev, path + fileName)        
         if readFileResult != None:
             cars.append(readFileResult[0])
             filePlates.append(readFileResult[1]) 
+    
     if reportType == "--Early_Morning":        
         generateReport("./reports/Early_Morning/" + arrow.now().format('YYYY-MM-DD') + "-Early_Morning.xlsx", titles, separators, cars, filePlates)
     elif reportType == "--Morning":        
@@ -32,6 +34,40 @@ def readFolder(executionMethod, reportType, isDev, path):
         generateGeneralReport(cars, filePlates)
 
 pass
+
+def readFolder_Car_NoCar(executionMethod, reportType, isDev, path):    
+    cars = []  
+    notCars = []
+
+    alternativePath = path + "car/"
+    if os.path.exists(alternativePath):
+        onlyfiles = [f for f in listdir(alternativePath) if isfile(join(alternativePath, f))]                          
+        for fileName in onlyfiles:                
+            readFileResult = readFile(executionMethod, reportType, isDev, alternativePath + fileName)        
+            if readFileResult != None:                
+                cars.append(readFileResult[0])                        
+
+    alternativePath = path + "notCar/"
+    if os.path.exists(alternativePath):
+        onlyfiles = [f for f in listdir(alternativePath) if isfile(join(alternativePath, f))]        
+        for fileName in onlyfiles:                
+            readFileResult = readFile(executionMethod, reportType, isDev, alternativePath + fileName)        
+            if readFileResult != None:                
+                notCars.append(readFileResult[0]) 
+    
+    titles = ["Car/notCar", "Path", "Video", "Car", "notCar"]
+    separators = ["-------------", "-------------", "-------------"]
+
+    if reportType == "--Early_Morning":                
+        generateReport_Car_NoCar("./reports/Early_Morning/" + arrow.now().format('YYYY-MM-DD') + "-Early_Morning_car_notCar.xlsx", titles, separators, cars, notCars)            
+    elif reportType == "--Morning":                
+        generateReport_Car_NoCar("./reports/Morning/" + arrow.now().format('YYYY-MM-DD') + "-Morning_car_notCar.xlsx", titles, separators, cars, notCars)                    
+    elif reportType == "--Afternoon" :        
+        generateReport_Car_NoCar("./reports/Afternoon/" + arrow.now().format('YYYY-MM-DD') + "-Afternoon_car_notCar.xlsx", titles, separators, cars, notCars)                            
+    elif reportType == "--Night":        
+        generateReport_Car_NoCar("./reports/Night/" + arrow.now().format('YYYY-MM-DD') + "-Night_car_notCar.xlsx", titles, separators, cars, notCars)                                    
+
+    pass
 
 def readFile(executionMethod, reportType, isDev, path):
     i = 0
@@ -81,6 +117,27 @@ def generateReport(path, titles, separators, cars, plates):
 
     wb.save(path)  
 pass
+
+def generateReport_Car_NoCar(path, titles, separatos, cars, notCars):
+    wb = Workbook()
+    ws = wb.active
+
+    ws.append(titles)
+
+    for car in cars:
+        car.append(1)
+        car.append(0)
+        ws.append(car)
+        ws.append(separatos)
+
+    for notCar in notCars:
+        notCar.append(0)
+        notCar.append(1)
+        ws.append(notCar)
+        ws.append(separatos)
+
+    wb.save(path)
+    pass
 
 # def readMultiplePaths(paths, isDev):
 #     # [path += "/Early_Morning/car/", path += "/Morning/car/", path += "/Afternoon/car/", path += "/Night/car/"]
