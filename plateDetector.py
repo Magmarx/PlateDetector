@@ -420,7 +420,7 @@ def callRest(plates, params, path):
             ]
     }       
 
-    url = 'http://192.168.245.254:50005/Socket.svc/push'
+    url = 'url here'
     data = json.dumps(jsonData)
     data = str(data)
     data = data.encode('utf-8')    
