@@ -21,7 +21,7 @@ For you to run this commands you will have to install 5 other things:
 We have multiple options for running the report generator for example 
 
 ```
-python main.py --file filepath --opcion --noDel jsonData --report date time
+python main.py --file filepath --opcion --noDel jsonData --report date time --dev/--prod channel
 ```
 
 * --file/--folder the type of read you want to execute
@@ -32,6 +32,8 @@ python main.py --file filepath --opcion --noDel jsonData --report date time
 * --noDel/--del delete video flag
 * jsonData send ''
 * --report this flag will tell the program to sort the videos by code, date, schedule
+* --dev/--prod this flag will tell the program to create different types of reports 
+* channel this flag will tell over what name of channel we will be storing the video results
 
 For generating the plate report use:
 
